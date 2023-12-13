@@ -1,0 +1,2778 @@
+{
+  "BMG2OPCDNEVFG5LW4S6GT33PPEWXVJD7XEDLTED4BFWN5M4HXLZNCK3EWY": {
+    "apps": 5,
+    "assets": 57,
+    "close_out": false,
+    "first_transaction_from": "VOTESZMB66LO6CGVREQENOKIBMW4JG2BA7HJUXZBAYDLE6RKM2CQ2YI5EI",
+    "created_at_timestamp": 1678153872,
+    "received_transactions_before_vote": 1000
+  },
+  "MCXEVCR2DMHJAYJKU3CXVUPBEDBP6GRHC4ZO34TI64MGSQ3HZMO3LCI4PY": {
+    "apps": 3,
+    "assets": 65,
+    "close_out": false,
+    "first_transaction_from": "MCXEVCR2DMHJAYJKU3CXVUPBEDBP6GRHC4ZO34TI64MGSQ3HZMO3LCI4PY",
+    "created_at_timestamp": 1631291408,
+    "received_transactions_before_vote": 395
+  },
+  "JWCNFWST3JGMN7NP5U5FEYSN5X2X5JKAJLQRANNK7EG47JUL5HVZ3JR54U": {
+    "apps": 2,
+    "assets": 145,
+    "close_out": false,
+    "first_transaction_from": "JWCNFWST3JGMN7NP5U5FEYSN5X2X5JKAJLQRANNK7EG47JUL5HVZ3JR54U",
+    "created_at_timestamp": 1632129613,
+    "received_transactions_before_vote": 845
+  },
+  "VQD34OJMMDEUMJBE4YK6Q6WUYYNLQI6O6FW4CDZJQMN62QXFNAC5N3TBAA": {
+    "apps": 1,
+    "assets": 7,
+    "close_out": false,
+    "first_transaction_from": "5VFHTETIZMYHZCKQ7HZZTR2UBDY2OXY47H2EUJVV5UK23MFWTVME24B7DU",
+    "created_at_timestamp": 1631778637,
+    "received_transactions_before_vote": 35
+  },
+  "XZ5DWCBL3WJW4KXGN7VWNTT6TDCBALT2ETLJIQQKTZBQUZRBMBAW7NP77A": {
+    "apps": 1,
+    "assets": 8,
+    "close_out": false,
+    "first_transaction_from": "XZ5DWCBL3WJW4KXGN7VWNTT6TDCBALT2ETLJIQQKTZBQUZRBMBAW7NP77A",
+    "created_at_timestamp": 1632057048,
+    "received_transactions_before_vote": 28
+  },
+  "XVDVPYKTBLQWI3UUVEQIKHPBAT44A6NLP4JTARAJEKT7EY5N4GIOL64SEA": {
+    "apps": 18,
+    "assets": 1172,
+    "close_out": false,
+    "first_transaction_from": "GJJI4Y52CRAAUWHX6HGH7FDUU4BXHC3ONQRIQ6LMUUPYE5QOTXFKLI47KA",
+    "created_at_timestamp": 1674019866,
+    "received_transactions_before_vote": 981
+  },
+  "EX53XQHM6ZK56O6FVCRQRCM6RLVZBACFGKOCOPPDR4GI56S66SZJM5EYVE": {
+    "apps": 3,
+    "assets": 220,
+    "close_out": false,
+    "first_transaction_from": "EX53XQHM6ZK56O6FVCRQRCM6RLVZBACFGKOCOPPDR4GI56S66SZJM5EYVE",
+    "created_at_timestamp": 1625401495,
+    "received_transactions_before_vote": 1000
+  },
+  "ROLANDIJN6QL7P62OWLMOD4JFXHHABBLP6RUEQWWORGQSUTAPCCYXWXJ4Q": {
+    "apps": 8,
+    "assets": 3,
+    "close_out": false,
+    "first_transaction_from": "ROLANDIJN6QL7P62OWLMOD4JFXHHABBLP6RUEQWWORGQSUTAPCCYXWXJ4Q",
+    "created_at_timestamp": 1651754692,
+    "received_transactions_before_vote": 998
+  },
+  "LVOI4GW6MAMMXYRULQCV4AQCCPVDUGFFXHH7PIMYC4ZF7FMNULJWUGTCBQ": {
+    "apps": 3,
+    "assets": 140,
+    "close_out": false,
+    "first_transaction_from": "MC3DY6TZJ4TBV3ZXIGWNAU3RDLNPORSEM3YWMR6TTWY2ULA77A6TF46LBE",
+    "created_at_timestamp": 1633952495,
+    "received_transactions_before_vote": 225
+  },
+  "5WKMH4KKTWVS5UBQEM4TRJIPMAJ7YUIS5BTZDSQ3V5RGCNU2MNWTW2XJCE": {
+    "apps": 1,
+    "assets": 12,
+    "close_out": false,
+    "first_transaction_from": "5WKMH4KKTWVS5UBQEM4TRJIPMAJ7YUIS5BTZDSQ3V5RGCNU2MNWTW2XJCE",
+    "created_at_timestamp": 1631689474,
+    "received_transactions_before_vote": 192
+  },
+  "FEHHGHT7BWDAX4SNOMCJ2YGQFBNL4RKIEMKC7PYLPNJ7AATG34LB3UJ5MA": {
+    "apps": 2,
+    "assets": 8,
+    "close_out": false,
+    "first_transaction_from": "FEHHGHT7BWDAX4SNOMCJ2YGQFBNL4RKIEMKC7PYLPNJ7AATG34LB3UJ5MA",
+    "created_at_timestamp": 1635933718,
+    "received_transactions_before_vote": 619
+  },
+  "7MIR7GNJYBFQMJHOTGLGIKTMT7WUVAK6JL4XHSGWQQ7U324LUFRJFJLCHI": {
+    "apps": 2,
+    "assets": 50,
+    "close_out": false,
+    "first_transaction_from": "7MIR7GNJYBFQMJHOTGLGIKTMT7WUVAK6JL4XHSGWQQ7U324LUFRJFJLCHI",
+    "created_at_timestamp": 1635411599,
+    "received_transactions_before_vote": 459
+  },
+  "QVXROU5YTXK5I3UXZWV7DREIHBICQO33TCDEWEA2N7S43XBAJH2ZLDESE4": {
+    "apps": 1,
+    "assets": 17,
+    "close_out": false,
+    "first_transaction_from": "QVXROU5YTXK5I3UXZWV7DREIHBICQO33TCDEWEA2N7S43XBAJH2ZLDESE4",
+    "created_at_timestamp": 1636782814,
+    "received_transactions_before_vote": 84
+  },
+  "SN3M7HI2GHOVWGJBBU5JNEPRJIURDRU4SX47K4ITHGM2FWTOEO5WL5GLVU": {
+    "apps": 1,
+    "assets": 30,
+    "close_out": false,
+    "first_transaction_from": "SN3M7HI2GHOVWGJBBU5JNEPRJIURDRU4SX47K4ITHGM2FWTOEO5WL5GLVU",
+    "created_at_timestamp": 1636447792,
+    "received_transactions_before_vote": 200
+  },
+  "3Y5DBZB6FTE3EQ7KH76CEH4TIUJR4J4ADLT2C2NJIWOH7ZBMVLSSR6C6LI": {
+    "apps": 3,
+    "assets": 19,
+    "close_out": false,
+    "first_transaction_from": "YXDKDH5XHXL6OYMH2HYCJCXOZWPOBEUNK5ICFVJRFW3JVQXZ6HQ6QPVQVA",
+    "created_at_timestamp": 1632797304,
+    "received_transactions_before_vote": 41
+  },
+  "YAZYYYH6FHDQYUUJHLLS6RBRKHJIJVD4OUP7MVN74RZ3MIQ3MCA2H2PS3M": {
+    "apps": 1,
+    "assets": 8,
+    "close_out": false,
+    "first_transaction_from": "CHAMPSKIT4ZFQFJ5YDXH4JXWVJYKKKMGJMDUKTXIBHC2CCBLJT23MEYKZI",
+    "created_at_timestamp": 1665457082,
+    "received_transactions_before_vote": 83
+  },
+  "JHYAWJDTEO4ES25H5XD4M3JVSPAVP7GL2R7RK2DIS5PKJNIY44FKTM63HI": {
+    "apps": 46,
+    "assets": 110,
+    "close_out": false,
+    "first_transaction_from": "JHYAWJDTEO4ES25H5XD4M3JVSPAVP7GL2R7RK2DIS5PKJNIY44FKTM63HI",
+    "created_at_timestamp": 1623048791,
+    "received_transactions_before_vote": 970
+  },
+  "H7HU2ZMYHTQ44QQI4PEH7LLXK23356QX6O7DVGYLPRO5YBIFMKLT4ATGBA": {
+    "apps": 3,
+    "assets": 229,
+    "close_out": false,
+    "first_transaction_from": "H7HU2ZMYHTQ44QQI4PEH7LLXK23356QX6O7DVGYLPRO5YBIFMKLT4ATGBA",
+    "created_at_timestamp": 1632125421,
+    "received_transactions_before_vote": 543
+  },
+  "OQEQWVQEG2IPWNCLZG7OVZQMO54IGAEQFOH35LZUBNDRPXYNSBKUGEJ6XE": {
+    "apps": 2,
+    "assets": 6,
+    "close_out": false,
+    "first_transaction_from": "OQEQWVQEG2IPWNCLZG7OVZQMO54IGAEQFOH35LZUBNDRPXYNSBKUGEJ6XE",
+    "created_at_timestamp": 1635343878,
+    "received_transactions_before_vote": 595
+  },
+  "BLZLLDLBRKFWVROY4QXQV7JZSLMQAGZZHLQLN5RWXV5FEOPY45YJFBY47Q": {
+    "apps": 2,
+    "assets": 120,
+    "close_out": false,
+    "first_transaction_from": "BLZLLDLBRKFWVROY4QXQV7JZSLMQAGZZHLQLN5RWXV5FEOPY45YJFBY47Q",
+    "created_at_timestamp": 1622456828,
+    "received_transactions_before_vote": 293
+  },
+  "M5ZEDBC7FSUXAQS5S3IDYH2FRSBYL372PD2SQAVYO5JEIBW5ETPNI2ZRXE": {
+    "apps": 1,
+    "assets": 14,
+    "close_out": false,
+    "first_transaction_from": "OFTMUIRIUX5YZDBIWJOGGK5IPR46HYHQ5OJTBYWDI5QOLVTSCUKPOODZ5U",
+    "created_at_timestamp": 1672936749,
+    "received_transactions_before_vote": 84
+  },
+  "S7MXFJUE7ZTIHVAMIUZ56CPRUHHOS3DVHNAHW4L5J6H5NYXF3MLHFFVV3Q": {
+    "apps": 2,
+    "assets": 6,
+    "close_out": false,
+    "first_transaction_from": "S7MXFJUE7ZTIHVAMIUZ56CPRUHHOS3DVHNAHW4L5J6H5NYXF3MLHFFVV3Q",
+    "created_at_timestamp": 1692201023,
+    "received_transactions_before_vote": 33
+  },
+  "QCLWRXMYMRFY6GFTYKHO6NHLWUUQ2XRQN4KXCWMAZTQ4DQOY2HXTZ2EQCE": {
+    "apps": 6,
+    "assets": 77,
+    "close_out": false,
+    "first_transaction_from": "QCLWRXMYMRFY6GFTYKHO6NHLWUUQ2XRQN4KXCWMAZTQ4DQOY2HXTZ2EQCE",
+    "created_at_timestamp": 1622403109,
+    "received_transactions_before_vote": 418
+  },
+  "R63V6S2KVDP4UXLQO7DGWPV2VRZAXMMTOKOLC2UJ5NDUFQVYCE7ZJJMWQE": {
+    "apps": 2,
+    "assets": 61,
+    "close_out": false,
+    "first_transaction_from": "MC3DY6TZJ4TBV3ZXIGWNAU3RDLNPORSEM3YWMR6TTWY2ULA77A6TF46LBE",
+    "created_at_timestamp": 1631762036,
+    "received_transactions_before_vote": 95
+  },
+  "PXQGH2C2BRX2NI3MBGK7HIUJRMYBE4DTZLFWASX35AEOQNLUF3NUBOWIJI": {
+    "apps": 1,
+    "assets": 91,
+    "close_out": false,
+    "first_transaction_from": "QCLWRXMYMRFY6GFTYKHO6NHLWUUQ2XRQN4KXCWMAZTQ4DQOY2HXTZ2EQCE",
+    "created_at_timestamp": 1631703255,
+    "received_transactions_before_vote": 170
+  },
+  "R4UBAM4HXESIME7VADOFYROML5WZ4KZXDIWKBTYNIL7IYRWFCZOV2CZMWA": {
+    "apps": 3,
+    "assets": 80,
+    "close_out": false,
+    "first_transaction_from": "GD5FYSU34GGRILDJEXKSYFNQVSPIIQW6FGVI7CCYGPEJRCQFDW4YBSBIPU",
+    "created_at_timestamp": 1631780818,
+    "received_transactions_before_vote": 1000
+  },
+  "6AN4FQGZZAULIPOUMT3MG5MDYNQWQCTGYK3BO5JNEX6ZLE3YYISMDU4TJA": {
+    "apps": 55,
+    "assets": 302,
+    "close_out": false,
+    "first_transaction_from": "SIXBA3PTUANHXD7AWQ2GC6GIRI7BEGGOHMJI7E4IFJ3WFQ2JFZZVF377TU",
+    "created_at_timestamp": 1641375501,
+    "received_transactions_before_vote": 966
+  },
+  "5QGJYP6XXPO2J6M657WFL66KPRBMMI45FS5GQQRXKK75JOHVUVFKQEZGCQ": {
+    "apps": 2,
+    "assets": 53,
+    "close_out": false,
+    "first_transaction_from": "5QGJYP6XXPO2J6M657WFL66KPRBMMI45FS5GQQRXKK75JOHVUVFKQEZGCQ",
+    "created_at_timestamp": 1631184629,
+    "received_transactions_before_vote": 289
+  },
+  "DUQQYWNF4CB375G775PQUSRY6UZO3IQYHYKK3ZLSYIY7CL7PWZDJHF5HIA": {
+    "apps": 6,
+    "assets": 18,
+    "close_out": false,
+    "first_transaction_from": "XFTGQ4L5SNZCGUZSIWS5X5UJZVZ5NVGLZ3GNMI7TFT33742J4LAUGMV4MY",
+    "created_at_timestamp": 1678059702,
+    "received_transactions_before_vote": 71
+  },
+  "C3DQJVL6ZVGL6MZ6JBDBEKYEXRV5NCPZYJUJ3BLRDK6V7ETKYC6NO6HOPA": {
+    "apps": 2,
+    "assets": 9,
+    "close_out": false,
+    "first_transaction_from": "XECWTJ6GNHZGGUQKGJXF2BAPLZXAR5TAFKVIRXMX4ZGAUBCP2X7F3CJGBQ",
+    "created_at_timestamp": 1655843345,
+    "received_transactions_before_vote": 31
+  },
+  "5T2CTZB3JJMMRLR7VV5Y2JEVNRXQSJUFNKYHAMJIUKCQZAMD7N7PYPDO74": {
+    "apps": 2,
+    "assets": 146,
+    "close_out": false,
+    "first_transaction_from": "5T2CTZB3JJMMRLR7VV5Y2JEVNRXQSJUFNKYHAMJIUKCQZAMD7N7PYPDO74",
+    "created_at_timestamp": 1635439115,
+    "received_transactions_before_vote": 537
+  },
+  "CQUKJVVHELFGJI2LSG56FDNK2XXCQNMO2YIJ7VLE3PLCSMMC3SHXTYENS4": {
+    "apps": 1,
+    "assets": 3,
+    "close_out": false,
+    "first_transaction_from": "WTKQUTMALV5EVODFEOK4QWUNGBQJGWAA34EBKTUJXMDADRG37RBERQQXU4",
+    "created_at_timestamp": 1634045634,
+    "received_transactions_before_vote": 14
+  },
+  "4TTLNXFPU4KPXY5SYCNMBKYAUGHF7APSSHGSMY6UP4R4EW7FIGBYCHECYU": {
+    "apps": 1,
+    "assets": 48,
+    "close_out": false,
+    "first_transaction_from": "4TTLNXFPU4KPXY5SYCNMBKYAUGHF7APSSHGSMY6UP4R4EW7FIGBYCHECYU",
+    "created_at_timestamp": 1639370500,
+    "received_transactions_before_vote": 349
+  },
+  "SV7FEAV7XP5NZKXDGQLXIB6FLCARNCIPCEIRHSLUN6KQYE7BPAV7PKOWAE": {
+    "apps": 1,
+    "assets": 45,
+    "close_out": false,
+    "first_transaction_from": "SV7FEAV7XP5NZKXDGQLXIB6FLCARNCIPCEIRHSLUN6KQYE7BPAV7PKOWAE",
+    "created_at_timestamp": 1637116648,
+    "received_transactions_before_vote": 103
+  },
+  "NOTILXUG675YH2JBO3NP5BXADEWRWHPOM5VBIWE6Z3AQU3QKGKMEPNZJRE": {
+    "apps": 2,
+    "assets": 17,
+    "close_out": false,
+    "first_transaction_from": "NOTILXUG675YH2JBO3NP5BXADEWRWHPOM5VBIWE6Z3AQU3QKGKMEPNZJRE",
+    "created_at_timestamp": 1646702169,
+    "received_transactions_before_vote": 71
+  },
+  "27WX6U276OLK5S2KVT3KDINDTRJ57FNMEWHUW26STW3ITQFT6FL7R5F6D4": {
+    "apps": 2,
+    "assets": 153,
+    "close_out": false,
+    "first_transaction_from": "MC3DY6TZJ4TBV3ZXIGWNAU3RDLNPORSEM3YWMR6TTWY2ULA77A6TF46LBE",
+    "created_at_timestamp": 1631786267,
+    "received_transactions_before_vote": 500
+  },
+  "AD5J43O3N6UPEUFYOZHT6WBUXDOK66MMGL3JHQV77Y2EAEZJVLRCINWYBI": {
+    "apps": 9,
+    "assets": 81,
+    "close_out": false,
+    "first_transaction_from": "5LFG65D3CE5AA63PYUE5BDGT3ZTQDBSDSGGDVBAZEZLVP2G4PE5OUAG2CU",
+    "created_at_timestamp": 1639032001,
+    "received_transactions_before_vote": 999
+  },
+  "P6S2HDPOJAL7AMZ5FSOT6QXCQDDTM5DLLDF2SGYK7P5JEGBESUOXOP4CWI": {
+    "apps": 14,
+    "assets": 67,
+    "close_out": false,
+    "first_transaction_from": "P6S2HDPOJAL7AMZ5FSOT6QXCQDDTM5DLLDF2SGYK7P5JEGBESUOXOP4CWI",
+    "created_at_timestamp": 1565158481,
+    "received_transactions_before_vote": 997
+  },
+  "6XUPBKAMQ5EOHFE7ODMJ6LEAZ2QBLMLVLNRYOEU6B2AWPITWYB5T3VL2IU": {
+    "apps": 1,
+    "assets": 1,
+    "close_out": false,
+    "first_transaction_from": "S7MXFJUE7ZTIHVAMIUZ56CPRUHHOS3DVHNAHW4L5J6H5NYXF3MLHFFVV3Q",
+    "created_at_timestamp": 1700342019,
+    "received_transactions_before_vote": 4
+  },
+  "VF2URR4WCVRUAIWGNMNXZYNHPULY427HQ5PJ4JWPVHY7JAEZXZNLTQLR5E": {
+    "apps": 1,
+    "assets": 48,
+    "close_out": false,
+    "first_transaction_from": "4VUY2G7RXQQH5T5QDSDD3KXVC7AULZUUIGQXMQLZ6A6E3NUMCBKBPGW3YE",
+    "created_at_timestamp": 1621447869,
+    "received_transactions_before_vote": 74
+  },
+  "57GVCKFCABYX4WORK3SC6YPYEYM4F2BWHBVJHG6RKWEDZVIB5Z6FPRUIPM": {
+    "apps": 7,
+    "assets": 107,
+    "close_out": false,
+    "first_transaction_from": "SIXBA3PTUANHXD7AWQ2GC6GIRI7BEGGOHMJI7E4IFJ3WFQ2JFZZVF377TU",
+    "created_at_timestamp": 1667388409,
+    "received_transactions_before_vote": 908
+  },
+  "MGFZIYUYHEZ5YESVIWE45C5BUJWU2LT7KLMWDTRY57VMGYZR6577OARXHQ": {
+    "apps": 5,
+    "assets": 109,
+    "close_out": false,
+    "first_transaction_from": "Q2VZHMGOFZYYXQ5JYWT4JZRLOMZDLSVHIT633VQUOZCX2WRAC5RNBICAME",
+    "created_at_timestamp": 1678147456,
+    "received_transactions_before_vote": 990
+  },
+  "2LY2AJLLFMWWH4KHZIXH3OZCHTBYMD2EQ2TK4W22RHVV6P7PDGCBSYTJW4": {
+    "apps": 1,
+    "assets": 5,
+    "close_out": false,
+    "first_transaction_from": "AIRDROPKWP6A2LFGAKY372OE2LVCHFVKIYDP6X4UYJ2BCMNKMWD3O6UDDM",
+    "created_at_timestamp": 1688680498,
+    "received_transactions_before_vote": 19
+  },
+  "TVENA3DHCKAQUXEEURCI3KQTJLKF5UL7EKCSM5D7OSD65OI3GU3NDJG6RA": {
+    "apps": 2,
+    "assets": 113,
+    "close_out": false,
+    "first_transaction_from": "TVENA3DHCKAQUXEEURCI3KQTJLKF5UL7EKCSM5D7OSD65OI3GU3NDJG6RA",
+    "created_at_timestamp": 1636520203,
+    "received_transactions_before_vote": 332
+  },
+  "THPLT2LJZE2LYQSL3FUUG5INFEHYJHAGM5JSVNOFRVURO6IIVIF2YDXE7Q": {
+    "apps": 14,
+    "assets": 80,
+    "close_out": false,
+    "first_transaction_from": "THPLT2LJZE2LYQSL3FUUG5INFEHYJHAGM5JSVNOFRVURO6IIVIF2YDXE7Q",
+    "created_at_timestamp": 1630423388,
+    "received_transactions_before_vote": 957
+  },
+  "MOKA7TMP36C6ADHT2MLH2YR5AVMBPZJVHEQNZCKPNIGM4IWKJQI2PBWMXU": {
+    "apps": 1,
+    "assets": 19,
+    "close_out": false,
+    "first_transaction_from": "MOKA7TMP36C6ADHT2MLH2YR5AVMBPZJVHEQNZCKPNIGM4IWKJQI2PBWMXU",
+    "created_at_timestamp": 1630557109,
+    "received_transactions_before_vote": 94
+  },
+  "TINYGRZLXA3SNQ5LF4BCPKVUGPBC6VCVQB2O7KBAP7AXPE2NMX5RSJM5NE": {
+    "apps": 42,
+    "assets": 24,
+    "close_out": false,
+    "first_transaction_from": "TINYGRZLXA3SNQ5LF4BCPKVUGPBC6VCVQB2O7KBAP7AXPE2NMX5RSJM5NE",
+    "created_at_timestamp": 1643322255,
+    "received_transactions_before_vote": 959
+  },
+  "YD46DODGONRZWTIQ3ZWXHLNMDCJZH7PKERT2M6ABUAEG42QLWC6T3Z7DKM": {
+    "apps": 2,
+    "assets": 32,
+    "close_out": false,
+    "first_transaction_from": "TRM2KCLEEHZCFCSAXHPZQUZGJG47YTJM435CH3K3FA2DM263LMWHIZ6XLE",
+    "created_at_timestamp": 1632045552,
+    "received_transactions_before_vote": 377
+  },
+  "IDJXF5K4SRQS32IFCWZCWHFTYN4KIOBDJAULS6C47WL25QWLVF2XPQCFUM": {
+    "apps": 1,
+    "assets": 40,
+    "close_out": false,
+    "first_transaction_from": "IDJXF5K4SRQS32IFCWZCWHFTYN4KIOBDJAULS6C47WL25QWLVF2XPQCFUM",
+    "created_at_timestamp": 1633512062,
+    "received_transactions_before_vote": 244
+  },
+  "Y2DZNC4YJ7QNIPHTGZBX7D3IM2VSHUGPMYSJ5ANGJ6RVRSFKXS5UZ5A6SY": {
+    "apps": 1,
+    "assets": 7,
+    "close_out": false,
+    "first_transaction_from": "Y2DZNC4YJ7QNIPHTGZBX7D3IM2VSHUGPMYSJ5ANGJ6RVRSFKXS5UZ5A6SY",
+    "created_at_timestamp": 1643730263,
+    "received_transactions_before_vote": 11
+  },
+  "JNWWVJ5JVDY5JK7OV45EKEPZCBHNNSEMI4X2YMAQ6ABCHCRBPAATQKRC54": {
+    "apps": 2,
+    "assets": 58,
+    "close_out": false,
+    "first_transaction_from": "JNWWVJ5JVDY5JK7OV45EKEPZCBHNNSEMI4X2YMAQ6ABCHCRBPAATQKRC54",
+    "created_at_timestamp": 1678709282,
+    "received_transactions_before_vote": 198
+  },
+  "TH5QPZWJVATNXF2DJIEB6VLJ3LY6LKORAOSE4HDLWZSFFG5DSSKHMZXLRM": {
+    "apps": 3,
+    "assets": 136,
+    "close_out": false,
+    "first_transaction_from": "TH5QPZWJVATNXF2DJIEB6VLJ3LY6LKORAOSE4HDLWZSFFG5DSSKHMZXLRM",
+    "created_at_timestamp": 1633333407,
+    "received_transactions_before_vote": 432
+  },
+  "RXK76ZMPPNNZTF2UAWBELXG3UMG5MQ2Z36YUN7AQ7O5JGATU5ULU4RJ2LM": {
+    "apps": 1,
+    "assets": 66,
+    "close_out": false,
+    "first_transaction_from": "RXK76ZMPPNNZTF2UAWBELXG3UMG5MQ2Z36YUN7AQ7O5JGATU5ULU4RJ2LM",
+    "created_at_timestamp": 1621865599,
+    "received_transactions_before_vote": 238
+  },
+  "E4SAV6OXKNDRZ3KHNGBEPPEM4X46O67WLL3YWUMB2XYLGPVPB44CMI677I": {
+    "apps": 3,
+    "assets": 53,
+    "close_out": false,
+    "first_transaction_from": "E4SAV6OXKNDRZ3KHNGBEPPEM4X46O67WLL3YWUMB2XYLGPVPB44CMI677I",
+    "created_at_timestamp": 1678644206,
+    "received_transactions_before_vote": 229
+  },
+  "QVL5JZO7VFJW5QJPWNUUGEYIARMEGRMPG27N5CVIIOKZFF2M5G5MHX6RK4": {
+    "apps": 2,
+    "assets": 12,
+    "close_out": false,
+    "first_transaction_from": "JNWWVJ5JVDY5JK7OV45EKEPZCBHNNSEMI4X2YMAQ6ABCHCRBPAATQKRC54",
+    "created_at_timestamp": 1678735939,
+    "received_transactions_before_vote": 96
+  },
+  "6KPG3VLCU5KY6JJKOEXD3TANHLPDAN643FUD43UJDTQ6L2OLLEZIHHJC4Q": {
+    "apps": 7,
+    "assets": 110,
+    "close_out": false,
+    "first_transaction_from": "6KPG3VLCU5KY6JJKOEXD3TANHLPDAN643FUD43UJDTQ6L2OLLEZIHHJC4Q",
+    "created_at_timestamp": 1622402227,
+    "received_transactions_before_vote": 996
+  },
+  "TBQALUOZC4G5GLHVPQYTWBH3KGKVMDTPWILAEBKQFGEMBNKRL75PBUOW6E": {
+    "apps": 2,
+    "assets": 63,
+    "close_out": false,
+    "first_transaction_from": "TBQALUOZC4G5GLHVPQYTWBH3KGKVMDTPWILAEBKQFGEMBNKRL75PBUOW6E",
+    "created_at_timestamp": 1633946854,
+    "received_transactions_before_vote": 140
+  },
+  "BCTU5O6IX7TR4W7ZV2ZI55PEHHTV2HO3LBXEBNUBKE2KGFMABD2OKXN7BA": {
+    "apps": 1,
+    "assets": 24,
+    "close_out": false,
+    "first_transaction_from": "BCTU5O6IX7TR4W7ZV2ZI55PEHHTV2HO3LBXEBNUBKE2KGFMABD2OKXN7BA",
+    "created_at_timestamp": 1700830793,
+    "received_transactions_before_vote": 48
+  },
+  "75UH6GZZXFRH4VWNCZG4UUUO3DEN5XKCKJ37VVONEHTSCMBUHVCFJTPXLE": {
+    "apps": 1,
+    "assets": 21,
+    "close_out": false,
+    "first_transaction_from": "75UH6GZZXFRH4VWNCZG4UUUO3DEN5XKCKJ37VVONEHTSCMBUHVCFJTPXLE",
+    "created_at_timestamp": 1682513803,
+    "received_transactions_before_vote": 35
+  },
+  "JVGFI5653YQIJ3DJPFDT3BH46S33OPQ6LMGFBMC6MWBZM2JVC7M6PBWBKU": {
+    "apps": 10,
+    "assets": 28,
+    "close_out": false,
+    "first_transaction_from": "JVGFI5653YQIJ3DJPFDT3BH46S33OPQ6LMGFBMC6MWBZM2JVC7M6PBWBKU",
+    "created_at_timestamp": 1679767908,
+    "received_transactions_before_vote": 517
+  },
+  "X3EUY2F2DFHQXE2LNHJCGYEGQH2TKB6DG2QHE7OTJ7EZBRCZHNRKWA3VW4": {
+    "apps": 1,
+    "assets": 17,
+    "close_out": false,
+    "first_transaction_from": "776QCYDRDGDIAI72TXD25NWO5ZZGGM2OER6AUN5O2KCY4R2BJMERM7TRMA",
+    "created_at_timestamp": 1666988508,
+    "received_transactions_before_vote": 39
+  },
+  "3GEW3HFOWHMUYFCJSJ5JSPYPRKGFJBXMIRFGEEXOPTSX7DC7BMI3KUHTNE": {
+    "apps": 1,
+    "assets": 7,
+    "close_out": false,
+    "first_transaction_from": "3GEW3HFOWHMUYFCJSJ5JSPYPRKGFJBXMIRFGEEXOPTSX7DC7BMI3KUHTNE",
+    "created_at_timestamp": 1682087291,
+    "received_transactions_before_vote": 28
+  },
+  "MKKFXNX6UXKEQCQZFKPOBXA7XI3VYLUSTVXH4BOFROQZVYOZCXGJO6H2E4": {
+    "apps": 1,
+    "assets": 2,
+    "close_out": false,
+    "first_transaction_from": "PRE4TE3T7VNOFWSV2GXX34TGDZJ4OTM4BVSHXYBVTFN4PFZUYZNW2PBRGQ",
+    "created_at_timestamp": 1678178042,
+    "received_transactions_before_vote": 8
+  },
+  "NL3WIDML6X2JKVUANKUTFJKNJMVQPLSS3B6FDJNWZ75XA4GTRLBHIHT2DM": {
+    "apps": 74,
+    "assets": 137,
+    "close_out": false,
+    "first_transaction_from": "K4R3HYQFKZAAHBEXANZG5OZHYXAOL6NXLSY7XA3R42GWLBIQVAGMXND7FY",
+    "created_at_timestamp": 1606829435,
+    "received_transactions_before_vote": 962
+  },
+  "WRTRV6XWBL64ORABZPURN5ISOWLCXTHYR7QQUS5FI5CNLSC25UDME4DEBU": {
+    "apps": 2,
+    "assets": 28,
+    "close_out": false,
+    "first_transaction_from": "WRTRV6XWBL64ORABZPURN5ISOWLCXTHYR7QQUS5FI5CNLSC25UDME4DEBU",
+    "created_at_timestamp": 1631708573,
+    "received_transactions_before_vote": 126
+  },
+  "P4TIB6ZU2GVOWT2RLQ3IAZU43OJAPLNJ6UH2L3Q4BGIFB35YPQS2YGKN6A": {
+    "apps": 27,
+    "assets": 125,
+    "close_out": false,
+    "first_transaction_from": "K4R3HYQFKZAAHBEXANZG5OZHYXAOL6NXLSY7XA3R42GWLBIQVAGMXND7FY",
+    "created_at_timestamp": 1678281949,
+    "received_transactions_before_vote": 934
+  },
+  "RGBZ2HHELREBMOY2A2HFSGHAOSGQ33JMC24UHC4TTBN3SWCY42NCC233XE": {
+    "apps": 2,
+    "assets": 106,
+    "close_out": false,
+    "first_transaction_from": "RGBZ2HHELREBMOY2A2HFSGHAOSGQ33JMC24UHC4TTBN3SWCY42NCC233XE",
+    "created_at_timestamp": 1636254471,
+    "received_transactions_before_vote": 1000
+  },
+  "XLJOM7ONUGMW6T2QEMMACIIN6YU5SKPYSN2TVLA32E5ZFNFLBMXXZ7Y4XE": {
+    "apps": 19,
+    "assets": 15,
+    "close_out": false,
+    "first_transaction_from": "XLJOM7ONUGMW6T2QEMMACIIN6YU5SKPYSN2TVLA32E5ZFNFLBMXXZ7Y4XE",
+    "created_at_timestamp": 1625483737,
+    "received_transactions_before_vote": 915
+  },
+  "WSBVHNTUXDBDLPZI7XFIGZPPRCHEZ4BBDBFQP7HYC2MVGSJZQK7APVSESQ": {
+    "apps": 1,
+    "assets": 11,
+    "close_out": false,
+    "first_transaction_from": "WSBVHNTUXDBDLPZI7XFIGZPPRCHEZ4BBDBFQP7HYC2MVGSJZQK7APVSESQ",
+    "created_at_timestamp": 1634576532,
+    "received_transactions_before_vote": 32
+  },
+  "H5UZUNBZKQZWPZ5SEZZVPEFESDLFI7JXDZHANE45M2ZIZYPPEBGE5R7RCE": {
+    "apps": 2,
+    "assets": 45,
+    "close_out": false,
+    "first_transaction_from": "H5UZUNBZKQZWPZ5SEZZVPEFESDLFI7JXDZHANE45M2ZIZYPPEBGE5R7RCE",
+    "created_at_timestamp": 1626866758,
+    "received_transactions_before_vote": 252
+  },
+  "WZNS2DG3BQ2ZLI3H6FTIXNG2SXNQ5QC2T47WSEPKHTVS7WSYCX737T33MQ": {
+    "apps": 1,
+    "assets": 29,
+    "close_out": false,
+    "first_transaction_from": "WZNS2DG3BQ2ZLI3H6FTIXNG2SXNQ5QC2T47WSEPKHTVS7WSYCX737T33MQ",
+    "created_at_timestamp": 1626866846,
+    "received_transactions_before_vote": 103
+  },
+  "KLBWM56RR5XAQ2DIABGDDGMEITA4VQQ6OZM73UGWDY6ZHYNFO4IBH3JPHM": {
+    "apps": 9,
+    "assets": 28,
+    "close_out": false,
+    "first_transaction_from": "KLBWM56RR5XAQ2DIABGDDGMEITA4VQQ6OZM73UGWDY6ZHYNFO4IBH3JPHM",
+    "created_at_timestamp": 1612821277,
+    "received_transactions_before_vote": 993
+  },
+  "VQ5T3YC2UNYSRSSR7Y3U27UBOPAZTSG63DGOXW6D7WOFDCYYQTI4KLKYE4": {
+    "apps": 10,
+    "assets": 20,
+    "close_out": false,
+    "first_transaction_from": "XFTGQ4L5SNZCGUZSIWS5X5UJZVZ5NVGLZ3GNMI7TFT33742J4LAUGMV4MY",
+    "created_at_timestamp": 1634224641,
+    "received_transactions_before_vote": 993
+  },
+  "WOF3GY5UNEWMCZTN7LDRO4NBDWAWWFCQBD6B7BK7CRPVIZKYNOOVUMISSI": {
+    "apps": 1,
+    "assets": 7,
+    "close_out": false,
+    "first_transaction_from": "WOF3GY5UNEWMCZTN7LDRO4NBDWAWWFCQBD6B7BK7CRPVIZKYNOOVUMISSI",
+    "created_at_timestamp": 1678140955,
+    "received_transactions_before_vote": 58
+  },
+  "AZKXZ2VGZJ7QQEEHB7OJ6ZCJLGVN34FPA4ENRKFWZH7SV4PFHXLXLXH67A": {
+    "apps": 4,
+    "assets": 9,
+    "close_out": false,
+    "first_transaction_from": "AZKXZ2VGZJ7QQEEHB7OJ6ZCJLGVN34FPA4ENRKFWZH7SV4PFHXLXLXH67A",
+    "created_at_timestamp": 1666046799,
+    "received_transactions_before_vote": 75
+  },
+  "FREDESTDMDNTXKITMO2TEL4ADKHJ7KOQ4HHCX7N65NGTBNLUCWI7W7AMHY": {
+    "apps": 3,
+    "assets": 161,
+    "close_out": false,
+    "first_transaction_from": "FREDESTDMDNTXKITMO2TEL4ADKHJ7KOQ4HHCX7N65NGTBNLUCWI7W7AMHY",
+    "created_at_timestamp": 1649812286,
+    "received_transactions_before_vote": 413
+  },
+  "IKHAAFSRD3D6LDRET6O2IXY6DVJAE7IMUSATQZZF4VP7MFE2BSMLAMNAYI": {
+    "apps": 2,
+    "assets": 147,
+    "close_out": false,
+    "first_transaction_from": "IKHAAFSRD3D6LDRET6O2IXY6DVJAE7IMUSATQZZF4VP7MFE2BSMLAMNAYI",
+    "created_at_timestamp": 1631416896,
+    "received_transactions_before_vote": 468
+  },
+  "EMUCFQGOUETTNNS3DOCN325NIZE5F4WAINE7PWQWR4X34OSYH7I4FWBVWU": {
+    "apps": 2,
+    "assets": 9,
+    "close_out": false,
+    "first_transaction_from": "EMUCFQGOUETTNNS3DOCN325NIZE5F4WAINE7PWQWR4X34OSYH7I4FWBVWU",
+    "created_at_timestamp": 1664648594,
+    "received_transactions_before_vote": 69
+  },
+  "5NYEGAY74EMS5GKXIRERMHNLHF4END4CEBDOHTK3H2OXFMQDBDD7S6JONM": {
+    "apps": 80,
+    "assets": 245,
+    "close_out": false,
+    "first_transaction_from": "6RBBQIOSJH5NINVTTAKE2EIO7EN3TW23O3XN67IPOXNE3KNZF3HYO7EIII",
+    "created_at_timestamp": 1630418809,
+    "received_transactions_before_vote": 829
+  },
+  "YOV2LB4S7MJM5T2B4JFNVBQ7HHGG4IZKYPTWMWUVADO3NXEFF5PY6XY6AM": {
+    "apps": 6,
+    "assets": 9,
+    "close_out": false,
+    "first_transaction_from": "YOV2LB4S7MJM5T2B4JFNVBQ7HHGG4IZKYPTWMWUVADO3NXEFF5PY6XY6AM",
+    "created_at_timestamp": 1657714982,
+    "received_transactions_before_vote": 98
+  },
+  "LTOFCOTPZ244OGSMJZN3AH45JQBBGVT4ME5HKFYFGXV7UL7ORT4JSL4EDU": {
+    "apps": 3,
+    "assets": 39,
+    "close_out": false,
+    "first_transaction_from": "LTOFCOTPZ244OGSMJZN3AH45JQBBGVT4ME5HKFYFGXV7UL7ORT4JSL4EDU",
+    "created_at_timestamp": 1631708115,
+    "received_transactions_before_vote": 142
+  },
+  "MOIRTFSYFZ5SWSPVANZIVGH6PZ4MVXIL374CMFRW2HXHCZQM6YOU6RNNAM": {
+    "apps": 8,
+    "assets": 13,
+    "close_out": false,
+    "first_transaction_from": "MOIRTFSYFZ5SWSPVANZIVGH6PZ4MVXIL374CMFRW2HXHCZQM6YOU6RNNAM",
+    "created_at_timestamp": 1665500106,
+    "received_transactions_before_vote": 148
+  },
+  "XICORMOB2WJNUV4IPP2HJ6YE55IGRY6YXXS2TGBGQAX3Z2X6QRB4OJSVDE": {
+    "apps": 2,
+    "assets": 66,
+    "close_out": false,
+    "first_transaction_from": "32N4T2GOTTMUFU3742EMAIO2YLYD7XETYTHCYOIJGW32NV6OFVHXK54O2U",
+    "created_at_timestamp": 1636856420,
+    "received_transactions_before_vote": 377
+  },
+  "DRAGONFIBC653G2WCQCAXLLCI7XY242TD5T2N44GXMEQIMVJTWNCY35MYE": {
+    "apps": 9,
+    "assets": 116,
+    "close_out": false,
+    "first_transaction_from": "DRAGONFIBC653G2WCQCAXLLCI7XY242TD5T2N44GXMEQIMVJTWNCY35MYE",
+    "created_at_timestamp": 1678049047,
+    "received_transactions_before_vote": 949
+  },
+  "QWEHLCEC3AB3JKQGJ2S7AGRUHEUAOGPMVR44NULYYVOX4HFD537R4DTEPM": {
+    "apps": 4,
+    "assets": 65,
+    "close_out": false,
+    "first_transaction_from": "QWEHLCEC3AB3JKQGJ2S7AGRUHEUAOGPMVR44NULYYVOX4HFD537R4DTEPM",
+    "created_at_timestamp": 1621849841,
+    "received_transactions_before_vote": 581
+  },
+  "MIBQYHASJQKPWU43FJLMVCI53ZJS2J43TV4EE626W5GCQB6WOCS5V6W4MU": {
+    "apps": 2,
+    "assets": 22,
+    "close_out": false,
+    "first_transaction_from": "PK2KQ24DRV6ARH5XP5ND5D5UC6WBIWBBF6IKMIWZ5QZKL75RQHYA6M6DO4",
+    "created_at_timestamp": 1678210485,
+    "received_transactions_before_vote": 290
+  },
+  "XEGY7HCIBBMWVUJ4HHUQKF3SA6D52SJXSAAMDVRMGQZLG2GKBW2YYI4PFE": {
+    "apps": 1,
+    "assets": 49,
+    "close_out": false,
+    "first_transaction_from": "XEGY7HCIBBMWVUJ4HHUQKF3SA6D52SJXSAAMDVRMGQZLG2GKBW2YYI4PFE",
+    "created_at_timestamp": 1668347447,
+    "received_transactions_before_vote": 485
+  },
+  "4KJD7XOQCIOM3PSPS7OAPY6PMPXEE4WUAINDFGUTGDXD2BE6EO37VP4LM4": {
+    "apps": 2,
+    "assets": 167,
+    "close_out": false,
+    "first_transaction_from": "4KJD7XOQCIOM3PSPS7OAPY6PMPXEE4WUAINDFGUTGDXD2BE6EO37VP4LM4",
+    "created_at_timestamp": 1631227478,
+    "received_transactions_before_vote": 276
+  },
+  "RM7BLFZUBNIJ2B2RBDXNTEF5SSM4WENT7GUZMT5JN5XWJ6KJ6JGVONOZLM": {
+    "apps": 1,
+    "assets": 1,
+    "close_out": false,
+    "first_transaction_from": "RM7BLFZUBNIJ2B2RBDXNTEF5SSM4WENT7GUZMT5JN5XWJ6KJ6JGVONOZLM",
+    "created_at_timestamp": 1699897036,
+    "received_transactions_before_vote": 3
+  },
+  "3YJQ32OR2VCOX3QHCFOW65C77S5SPIELKGPKBUZMRJ3SFMEZOVH35FKZZA": {
+    "apps": 2,
+    "assets": 83,
+    "close_out": false,
+    "first_transaction_from": "3YJQ32OR2VCOX3QHCFOW65C77S5SPIELKGPKBUZMRJ3SFMEZOVH35FKZZA",
+    "created_at_timestamp": 1631206898,
+    "received_transactions_before_vote": 235
+  },
+  "DIC7MNKZIB4BSSLPUJ7ZAIJ3TIVBQEWJHPEGJE54AWWJRTMOKB57BWEQ4Q": {
+    "apps": 1,
+    "assets": 11,
+    "close_out": false,
+    "first_transaction_from": "DIC7MNKZIB4BSSLPUJ7ZAIJ3TIVBQEWJHPEGJE54AWWJRTMOKB57BWEQ4Q",
+    "created_at_timestamp": 1686129008,
+    "received_transactions_before_vote": 22
+  },
+  "RD4L4V7TZSP6ZFQ5VZTXG2ETTFBQSG6NEMI2Y5MGAE3IVTPUI6SHACJ24A": {
+    "apps": 1,
+    "assets": 23,
+    "close_out": false,
+    "first_transaction_from": "RD4L4V7TZSP6ZFQ5VZTXG2ETTFBQSG6NEMI2Y5MGAE3IVTPUI6SHACJ24A",
+    "created_at_timestamp": 1636379759,
+    "received_transactions_before_vote": 191
+  },
+  "5URM4YO6WI2MQ66D3XRZXSKOBMEXDCSMBIUW2RVB2LYDPATKNIX4YVJOGY": {
+    "apps": 90,
+    "assets": 528,
+    "close_out": false,
+    "first_transaction_from": "5URM4YO6WI2MQ66D3XRZXSKOBMEXDCSMBIUW2RVB2LYDPATKNIX4YVJOGY",
+    "created_at_timestamp": 1631868720,
+    "received_transactions_before_vote": 968
+  },
+  "FY4G5X6Y33WVD7NSYCKTKB6VUI2VGE6RLKF6EPRHEPDH6OOVDQAWSXOSLQ": {
+    "apps": 4,
+    "assets": 56,
+    "close_out": false,
+    "first_transaction_from": "XFTGQ4L5SNZCGUZSIWS5X5UJZVZ5NVGLZ3GNMI7TFT33742J4LAUGMV4MY",
+    "created_at_timestamp": 1659622473,
+    "received_transactions_before_vote": 846
+  },
+  "IN3EQFSKFQNLYNXVRXPUHRGG732LFGPWRXOHWNLZA65NAUDFHKDRSA57BI": {
+    "apps": 4,
+    "assets": 129,
+    "close_out": false,
+    "first_transaction_from": "IN3EQFSKFQNLYNXVRXPUHRGG732LFGPWRXOHWNLZA65NAUDFHKDRSA57BI",
+    "created_at_timestamp": 1624873026,
+    "received_transactions_before_vote": 494
+  },
+  "P23L3I4A3SL72JE4CHKH27QJGF6LJXDTQIF56BN723GX62F2L57NYBWWC4": {
+    "apps": 1,
+    "assets": 1,
+    "close_out": false,
+    "first_transaction_from": "P23L3I4A3SL72JE4CHKH27QJGF6LJXDTQIF56BN723GX62F2L57NYBWWC4",
+    "created_at_timestamp": 1700330087,
+    "received_transactions_before_vote": 3
+  },
+  "HM5FDEONZNHBF5B25WBS5IDEZSCOKSE3G7EHDIROOOZJJZYNL6IDQMKQOI": {
+    "apps": 2,
+    "assets": 100,
+    "close_out": false,
+    "first_transaction_from": "HM5FDEONZNHBF5B25WBS5IDEZSCOKSE3G7EHDIROOOZJJZYNL6IDQMKQOI",
+    "created_at_timestamp": 1630959354,
+    "received_transactions_before_vote": 154
+  },
+  "SGKPEEVQIX4LL7QAYXTUNJED5EI2XSIJE24TLQBMS3LFXFYAOB43FXJFEU": {
+    "apps": 1,
+    "assets": 72,
+    "close_out": false,
+    "first_transaction_from": "SGKPEEVQIX4LL7QAYXTUNJED5EI2XSIJE24TLQBMS3LFXFYAOB43FXJFEU",
+    "created_at_timestamp": 1624008969,
+    "received_transactions_before_vote": 289
+  },
+  "7WVQQDPXPTYSOV7BZB6FB22LNGR4TOJTA6X4C2QVO54KOLHO5NOYKDWVBU": {
+    "apps": 2,
+    "assets": 87,
+    "close_out": false,
+    "first_transaction_from": "7WVQQDPXPTYSOV7BZB6FB22LNGR4TOJTA6X4C2QVO54KOLHO5NOYKDWVBU",
+    "created_at_timestamp": 1621855245,
+    "received_transactions_before_vote": 288
+  },
+  "5AL5CG7LLIJ7HBWYFFNGNLUKINRTPEU7W5NOUVBT5GICTRPRFVWQFQGW3I": {
+    "apps": 1,
+    "assets": 106,
+    "close_out": false,
+    "first_transaction_from": "HM5FDEONZNHBF5B25WBS5IDEZSCOKSE3G7EHDIROOOZJJZYNL6IDQMKQOI",
+    "created_at_timestamp": 1622985468,
+    "received_transactions_before_vote": 245
+  },
+  "ZA5Y6ZVM2KOOV7JIIN3LSFNTCZDSOEHVFG6BECIFDIVFPIJWO7AVPO5OZI": {
+    "apps": 15,
+    "assets": 29,
+    "close_out": false,
+    "first_transaction_from": "DRDXHWE3VR7FCZGWAZYJAYA4BQ4NGIQ7RUK7BMIQWYZHXDN4CM4UOD736E",
+    "created_at_timestamp": 1618494547,
+    "received_transactions_before_vote": 997
+  },
+  "K2IZ3CVZS37HDB6WP5BMNUYFXVXDQU62B2RHVQM2SO22YUATEBJTEVH7DQ": {
+    "apps": 1,
+    "assets": 33,
+    "close_out": false,
+    "first_transaction_from": "K2IZ3CVZS37HDB6WP5BMNUYFXVXDQU62B2RHVQM2SO22YUATEBJTEVH7DQ",
+    "created_at_timestamp": 1623398658,
+    "received_transactions_before_vote": 698
+  },
+  "NXI7MODRDUOVA7XQK2P3HVP325P26BOBWTADLGJUUEQ7ALMOVIQBIAURWM": {
+    "apps": 36,
+    "assets": 343,
+    "close_out": false,
+    "first_transaction_from": "LAMBOEZ7SCQQXHYCM5MCVXHCBB3M366D4D7KNR6EM3WEKBY4I4FDDGAW7M",
+    "created_at_timestamp": 1678102104,
+    "received_transactions_before_vote": 725
+  },
+  "HNBGFRNII7GP6K6MWS6XNEV6RYB32A4DFWSDUSCDXRWJUTH5HKABQIMNDM": {
+    "apps": 3,
+    "assets": 59,
+    "close_out": false,
+    "first_transaction_from": "HNBGFRNII7GP6K6MWS6XNEV6RYB32A4DFWSDUSCDXRWJUTH5HKABQIMNDM",
+    "created_at_timestamp": 1630180831,
+    "received_transactions_before_vote": 433
+  },
+  "NJYUGME5MGOCAUHCDZIH27P6VXBKDKDV74QSTS2ASVSN64BF7IH5N7P2NM": {
+    "apps": 2,
+    "assets": 31,
+    "close_out": false,
+    "first_transaction_from": "NJYUGME5MGOCAUHCDZIH27P6VXBKDKDV74QSTS2ASVSN64BF7IH5N7P2NM",
+    "created_at_timestamp": 1635594545,
+    "received_transactions_before_vote": 1000
+  },
+  "735UUUJJD4SQV6QTYHLUC74IQIARVZC4DLUHB2A5ZOR4UCA6FCJFMHYHS4": {
+    "apps": 2,
+    "assets": 68,
+    "close_out": false,
+    "first_transaction_from": "735UUUJJD4SQV6QTYHLUC74IQIARVZC4DLUHB2A5ZOR4UCA6FCJFMHYHS4",
+    "created_at_timestamp": 1632989250,
+    "received_transactions_before_vote": 499
+  },
+  "WNKO5EKNLOIVIGZDIC5ABIKNOUXCS5SKGWSHKUAFEYOGVWRQ5VQXF4XG7A": {
+    "apps": 1,
+    "assets": 37,
+    "close_out": false,
+    "first_transaction_from": "MC3DY6TZJ4TBV3ZXIGWNAU3RDLNPORSEM3YWMR6TTWY2ULA77A6TF46LBE",
+    "created_at_timestamp": 1632265084,
+    "received_transactions_before_vote": 63
+  },
+  "HGL4L2WKPTO26OXZQDCMTIZRV347IHZBIVB7SZ2Z7IR4P4B5UDFVEXGBCI": {
+    "apps": 1,
+    "assets": 55,
+    "close_out": false,
+    "first_transaction_from": "2XJXKXGRZBU4ZTQ5CJCEVGD25QKHO73OPTFEOMELLFORKNJ6BFOJISGEBY",
+    "created_at_timestamp": 1681566001,
+    "received_transactions_before_vote": 120
+  },
+  "7T4ATVYRDEYX2JK76XSGF5OWZGXUHYLJIH4LWYJ4COIMFKSPC5QZC4RGW4": {
+    "apps": 3,
+    "assets": 42,
+    "close_out": false,
+    "first_transaction_from": "O5XWVFCVB5XTK2F4DYOH33QLO3AD4QSKVGO3KFUWYCSPLK2TFICQJEPSXU",
+    "created_at_timestamp": 1633947007,
+    "received_transactions_before_vote": 812
+  },
+  "R7W45Q34B6I3YDCJW74XQIOUNQAL5GPSECZBJXQGT7CFTPYGU3Q3RJSK74": {
+    "apps": 29,
+    "assets": 15,
+    "close_out": false,
+    "first_transaction_from": "L2ZO7OA25S5YVDJ4TDKSM2ZRSJKOL5DH4JJMAE6ZTH6RYWFGS5XAYXMQDQ",
+    "created_at_timestamp": 1638545068,
+    "received_transactions_before_vote": 949
+  },
+  "JVUTHWJKUWIGDWGIIQBVSUAIVM4PJBQYAABQNM2KXMIRAHMKROVBSBZNQI": {
+    "apps": 1,
+    "assets": 1,
+    "close_out": false,
+    "first_transaction_from": "JVUTHWJKUWIGDWGIIQBVSUAIVM4PJBQYAABQNM2KXMIRAHMKROVBSBZNQI",
+    "created_at_timestamp": 1700389790,
+    "received_transactions_before_vote": 3
+  },
+  "3PGUCSW7PXP3O3URE4VHLLLP7T7I65HCNBZZCTRUJ6DSMINVUJAZENLSAY": {
+    "apps": 1,
+    "assets": 2,
+    "close_out": false,
+    "first_transaction_from": "EYW43JLNBB2FR7GAM3PBNHC4GXNYXNGW4CYM3FZHLPENT5B7G22VPGNROI",
+    "created_at_timestamp": 1696569961,
+    "received_transactions_before_vote": 7
+  },
+  "IW5CFPEPEF7BSAF4ONE24Q2BHW5HPA5IRQ6DU2TGIMHLG5O6F6XJWZBLDE": {
+    "apps": 12,
+    "assets": 17,
+    "close_out": false,
+    "first_transaction_from": "IW5CFPEPEF7BSAF4ONE24Q2BHW5HPA5IRQ6DU2TGIMHLG5O6F6XJWZBLDE",
+    "created_at_timestamp": 1639554602,
+    "received_transactions_before_vote": 824
+  },
+  "P7U6A5G7CQXFJPH3S576ZPCFCY5XPUP5RHR577S5NTNN3LR2WURHAK3SUE": {
+    "apps": 11,
+    "assets": 24,
+    "close_out": false,
+    "first_transaction_from": "OFTMUIRIUX5YZDBIWJOGGK5IPR46HYHQ5OJTBYWDI5QOLVTSCUKPOODZ5U",
+    "created_at_timestamp": 1613792134,
+    "received_transactions_before_vote": 390
+  },
+  "FJONXN5PP2C36XVVNG3KCNXWLTADA7A232TCTIVTOZ3UHR77V6SQYYIMZA": {
+    "apps": 34,
+    "assets": 17,
+    "close_out": false,
+    "first_transaction_from": "FJONXN5PP2C36XVVNG3KCNXWLTADA7A232TCTIVTOZ3UHR77V6SQYYIMZA",
+    "created_at_timestamp": 1631867185,
+    "received_transactions_before_vote": 944
+  },
+  "22T47MKF2YHPJVOJN4PKSAD5EPRBWWL4VZ4G6I6XIDFI5FS7OZYYY3PPWU": {
+    "apps": 11,
+    "assets": 31,
+    "close_out": false,
+    "first_transaction_from": "22T47MKF2YHPJVOJN4PKSAD5EPRBWWL4VZ4G6I6XIDFI5FS7OZYYY3PPWU",
+    "created_at_timestamp": 1678017423,
+    "received_transactions_before_vote": 497
+  },
+  "FYRY7FV7TNBEBEUN3MAEWZGOPNNDHYOV6MNV7EBUNBD6YYAPNXGYKYGM4M": {
+    "apps": 1,
+    "assets": 10,
+    "close_out": false,
+    "first_transaction_from": "FYRY7FV7TNBEBEUN3MAEWZGOPNNDHYOV6MNV7EBUNBD6YYAPNXGYKYGM4M",
+    "created_at_timestamp": 1685806931,
+    "received_transactions_before_vote": 222
+  },
+  "HJNRMVOWWX6LU36FJCQCLGILISZEGGEPKENAMTTGX42KPEEO47EYJ7ZVKA": {
+    "apps": 4,
+    "assets": 13,
+    "close_out": false,
+    "first_transaction_from": "6RBBQIOSJH5NINVTTAKE2EIO7EN3TW23O3XN67IPOXNE3KNZF3HYO7EIII",
+    "created_at_timestamp": 1676702451,
+    "received_transactions_before_vote": 101
+  },
+  "WBZXRPDQXYCDHEMLHNVS7V7DRLG54POGJRZQULXLIVGT6NIS3RUVYIWN6M": {
+    "apps": 3,
+    "assets": 15,
+    "close_out": false,
+    "first_transaction_from": "WBZXRPDQXYCDHEMLHNVS7V7DRLG54POGJRZQULXLIVGT6NIS3RUVYIWN6M",
+    "created_at_timestamp": 1676702462,
+    "received_transactions_before_vote": 60
+  },
+  "LHLIQ6AG56LAYSVH6Z6DTLM6FIYAFVYSJQXMAWE55KGFGTEUGK4UB26GAU": {
+    "apps": 35,
+    "assets": 85,
+    "close_out": false,
+    "first_transaction_from": "RILLAGT3DCI4AKVTXVL7II7YQDNJNAXJHT36OWHQGHIQXCJUVBMJ2GOXZY",
+    "created_at_timestamp": 1654259083,
+    "received_transactions_before_vote": 978
+  },
+  "MUEGNKSGQJGPQC44PNEQHJAUAUR45HE7ZJDCB3RFE5RMBIN3X6D3BGI3H4": {
+    "apps": 1,
+    "assets": 751,
+    "close_out": false,
+    "first_transaction_from": "OZUUPC2B6SKD4MHNFOHZAWOBCRGBBWH7QWZJ4GREGAM7Q43RBYNO6ILW5Q",
+    "created_at_timestamp": 1668973076,
+    "received_transactions_before_vote": 1000
+  },
+  "N5BKNVE2V7XM6AMJFXN7R5ZIDBIUUGHRE367RQLAVE6AX5SAFIOPGVHJRI": {
+    "apps": 1,
+    "assets": 101,
+    "close_out": false,
+    "first_transaction_from": "MC3DY6TZJ4TBV3ZXIGWNAU3RDLNPORSEM3YWMR6TTWY2ULA77A6TF46LBE",
+    "created_at_timestamp": 1636482597,
+    "received_transactions_before_vote": 143
+  },
+  "CM2QEOEZL4ANKFIU4HRXYBQLMTJTJ6AODTJ4YJLMPSPT4Z5FJHQCNLXWPY": {
+    "apps": 12,
+    "assets": 226,
+    "close_out": false,
+    "first_transaction_from": "H7LMWUAHACD2YSNECXAM5MIEZQLNATMFO3P5BBYXQDABFK3VEGTQV3VMZY",
+    "created_at_timestamp": 1662326186,
+    "received_transactions_before_vote": 718
+  },
+  "G6DVDETMXQY5GL5QIESKMYW5PODZ73YAYADB2CRK3PESN6F5KNGAKUOZN4": {
+    "apps": 2,
+    "assets": 99,
+    "close_out": false,
+    "first_transaction_from": "G6DVDETMXQY5GL5QIESKMYW5PODZ73YAYADB2CRK3PESN6F5KNGAKUOZN4",
+    "created_at_timestamp": 1633284498,
+    "received_transactions_before_vote": 445
+  },
+  "S5TF6JRGUGAZW5TVJIJLW2NLMIVIHLEFWIBUD2G4MJUKMRX2AO7AFPMODA": {
+    "apps": 16,
+    "assets": 726,
+    "close_out": false,
+    "first_transaction_from": "AQUAKMQN5AWKB4CNI66ONRQNLGTHJWC7HSFI4CGUTA5LJJDDHKGNZY6IOU",
+    "created_at_timestamp": 1628460724,
+    "received_transactions_before_vote": 933
+  },
+  "WHQK6IL7V4HDZOXH7CLA7RBM2WAVWWNLP2DXQCX2JGKQTLIHECMPCQW2CE": {
+    "apps": 8,
+    "assets": 136,
+    "close_out": false,
+    "first_transaction_from": "C46D7INVWU4U2CPOE5NVZT6ZB5NWOLU57U6BDTRFGEDWRKHTT7SPG3JTCA",
+    "created_at_timestamp": 1624043278,
+    "received_transactions_before_vote": 995
+  },
+  "RF2RM4V2EXTS6HWAHRYFOLER4F6DJ7BRGH5SVSLR3YIFSFWQKGN5CJY5LM": {
+    "apps": 1,
+    "assets": 107,
+    "close_out": false,
+    "first_transaction_from": "7XB2MQDOMWDKKIJBRTPDH6BUD26PE37N3WJCWR5XYNT7K36HPWKLEBQAKM",
+    "created_at_timestamp": 1630164761,
+    "received_transactions_before_vote": 226
+  },
+  "NWD2VMNIMNCBPBYZVQQWESI5JBSHWB7I63XCXHPY35S27FK3VUB5F5BRYE": {
+    "apps": 1,
+    "assets": 13,
+    "close_out": false,
+    "first_transaction_from": "NWD2VMNIMNCBPBYZVQQWESI5JBSHWB7I63XCXHPY35S27FK3VUB5F5BRYE",
+    "created_at_timestamp": 1699176154,
+    "received_transactions_before_vote": 41
+  },
+  "5DYIZMX7N4SAB44HLVRUGLYBPSN4UMPDZVTX7V73AIRMJQA3LKTENTLFZ4": {
+    "apps": 34,
+    "assets": 2685,
+    "close_out": false,
+    "first_transaction_from": "MYYHO6HYYZUZSHSEOKDYLZCEXVFWNWX5TJWK3HNQWOLJGVKT66M7ULF4LE",
+    "created_at_timestamp": 1622487562,
+    "received_transactions_before_vote": 991
+  },
+  "T6WRHYUB4HDE7SOJ2R2MHRTS3J2CPBQHKR4J2YQKLJGLRGA2OACZJQUCQ4": {
+    "apps": 2,
+    "assets": 32,
+    "close_out": false,
+    "first_transaction_from": "KWK6KBFLAHKOI6CIO6FK54MQWB6GDOHDQJTBZBWNEL7ODV4N7L3PBLR66Y",
+    "created_at_timestamp": 1621840906,
+    "received_transactions_before_vote": 301
+  },
+  "RYDOEMPIHEMTA27KJCVGAFPQJPAV2BJDM2NCOVF5HEXEEVISE2JEA3TPTM": {
+    "apps": 33,
+    "assets": 84,
+    "close_out": false,
+    "first_transaction_from": "RYDOEMPIHEMTA27KJCVGAFPQJPAV2BJDM2NCOVF5HEXEEVISE2JEA3TPTM",
+    "created_at_timestamp": 1650456667,
+    "received_transactions_before_vote": 941
+  },
+  "JMXTRHQ3LCPI6KLGY3A4ZY2ENJKYHCO5ZHFEYE72F54BO6MU7OWDR5F6UU": {
+    "apps": 1,
+    "assets": 79,
+    "close_out": false,
+    "first_transaction_from": "RF2RM4V2EXTS6HWAHRYFOLER4F6DJ7BRGH5SVSLR3YIFSFWQKGN5CJY5LM",
+    "created_at_timestamp": 1632654885,
+    "received_transactions_before_vote": 121
+  },
+  "MF2QMQRM2C34JFMLNP2PTD3PBEWWK3SDA326MT5M5CO25ZNYBPO4L3BM2I": {
+    "apps": 1,
+    "assets": 69,
+    "close_out": false,
+    "first_transaction_from": "JMXTRHQ3LCPI6KLGY3A4ZY2ENJKYHCO5ZHFEYE72F54BO6MU7OWDR5F6UU",
+    "created_at_timestamp": 1632654924,
+    "received_transactions_before_vote": 110
+  },
+  "7XB2MQDOMWDKKIJBRTPDH6BUD26PE37N3WJCWR5XYNT7K36HPWKLEBQAKM": {
+    "apps": 2,
+    "assets": 71,
+    "close_out": false,
+    "first_transaction_from": "MF2QMQRM2C34JFMLNP2PTD3PBEWWK3SDA326MT5M5CO25ZNYBPO4L3BM2I",
+    "created_at_timestamp": 1632654954,
+    "received_transactions_before_vote": 113
+  },
+  "KSHVQEDSDWVRGV6VVCAYXI24UGEGGSPMFY44KW5ICAISPQ2AAR73OYW4L4": {
+    "apps": 4,
+    "assets": 19,
+    "close_out": false,
+    "first_transaction_from": "KSHVQEDSDWVRGV6VVCAYXI24UGEGGSPMFY44KW5ICAISPQ2AAR73OYW4L4",
+    "created_at_timestamp": 1677586396,
+    "received_transactions_before_vote": 188
+  },
+  "GSR5SPFVILNB2C7MYA2S6JYDN5OBEHD4NLOJVDSVCOVW3ZUVLFJSBSI3DU": {
+    "apps": 27,
+    "assets": 84,
+    "close_out": false,
+    "first_transaction_from": "GSR5SPFVILNB2C7MYA2S6JYDN5OBEHD4NLOJVDSVCOVW3ZUVLFJSBSI3DU",
+    "created_at_timestamp": 1639760616,
+    "received_transactions_before_vote": 832
+  },
+  "DAMGIQOCJ7XGQ33AR7REL5WR65ATAGSKWOMTIG6RCQJXJYZJPR2FYZ5V2U": {
+    "apps": 1,
+    "assets": 72,
+    "close_out": false,
+    "first_transaction_from": "MC3DY6TZJ4TBV3ZXIGWNAU3RDLNPORSEM3YWMR6TTWY2ULA77A6TF46LBE",
+    "created_at_timestamp": 1632493257,
+    "received_transactions_before_vote": 96
+  },
+  "HYGYM3UXFITKAYBF5WKUISPHB6COC6EUIRXF5B5KGXQZU2V2FVM5Z5U2KU": {
+    "apps": 1,
+    "assets": 6,
+    "close_out": false,
+    "first_transaction_from": "IVBHJFHZWPXRX2EA7AH7Y4UTTBO2AK73XI65OIXDEAEN7VO2IHWXKOKOVM",
+    "created_at_timestamp": 1678830515,
+    "received_transactions_before_vote": 43
+  },
+  "4ZCYG7X4K2JKFU6GGGD4LPPJMDG46BEWEVEWUPTIGKYSJ3IWEDTTQWHBFI": {
+    "apps": 3,
+    "assets": 35,
+    "close_out": false,
+    "first_transaction_from": "ANGEL3CMT7TEXSBJR3DCTJTZCQFOF6FJB6PDKU4IOAMTNPXGR7XUYKOU5Y",
+    "created_at_timestamp": 1634223546,
+    "received_transactions_before_vote": 1000
+  },
+  "FKKEMTWJOPET2M6X6JK44KHKED5L2HVRO6NMGGPNBWFPAZSTRUCN5YTBRY": {
+    "apps": 2,
+    "assets": 44,
+    "close_out": false,
+    "first_transaction_from": "FKKEMTWJOPET2M6X6JK44KHKED5L2HVRO6NMGGPNBWFPAZSTRUCN5YTBRY",
+    "created_at_timestamp": 1631602008,
+    "received_transactions_before_vote": 223
+  },
+  "G5FDK4WEI34PTWIITEEYTZFQRVSPQKJCWZTOBZCU7RGQZDXOSRBMKZJ74I": {
+    "apps": 2,
+    "assets": 106,
+    "close_out": false,
+    "first_transaction_from": "G5FDK4WEI34PTWIITEEYTZFQRVSPQKJCWZTOBZCU7RGQZDXOSRBMKZJ74I",
+    "created_at_timestamp": 1631714180,
+    "received_transactions_before_vote": 1000
+  },
+  "IYUDTPQJZN7GJV4OUL3HDSAT75BNMW4EKGVMW4JDT2LXTGSDAKBF7TFEFM": {
+    "apps": 4,
+    "assets": 134,
+    "close_out": false,
+    "first_transaction_from": "IYUDTPQJZN7GJV4OUL3HDSAT75BNMW4EKGVMW4JDT2LXTGSDAKBF7TFEFM",
+    "created_at_timestamp": 1622482573,
+    "received_transactions_before_vote": 1000
+  },
+  "N2LBXED6E4HSDNSMHYEOPFYXUQPSJOBPLRNDHBIA4VQIJC7LVG7CDAAHWM": {
+    "apps": 1,
+    "assets": 67,
+    "close_out": false,
+    "first_transaction_from": "G5FDK4WEI34PTWIITEEYTZFQRVSPQKJCWZTOBZCU7RGQZDXOSRBMKZJ74I",
+    "created_at_timestamp": 1636964620,
+    "received_transactions_before_vote": 286
+  },
+  "JPEGRZ6G4IBZCOC7UV6QZWJ6TENNKRIPENUJTLG5K7PKIKMVTJHUGERARE": {
+    "apps": 9,
+    "assets": 331,
+    "close_out": false,
+    "first_transaction_from": "SIXBA3PTUANHXD7AWQ2GC6GIRI7BEGGOHMJI7E4IFJ3WFQ2JFZZVF377TU",
+    "created_at_timestamp": 1679111281,
+    "received_transactions_before_vote": 980
+  },
+  "X5RYJSJD526EBRQHB3TDXJRWVPTLYOKNJW3QBW6CYK2Q72CNI343F3KFLE": {
+    "apps": 2,
+    "assets": 87,
+    "close_out": false,
+    "first_transaction_from": "ANGEL3CMT7TEXSBJR3DCTJTZCQFOF6FJB6PDKU4IOAMTNPXGR7XUYKOU5Y",
+    "created_at_timestamp": 1632653506,
+    "received_transactions_before_vote": 1000
+  },
+  "H7H2EG5AWNOA77DYJCW222IIEMW4AIGHU5Z36X3QQWRXNHRF7CR5UKCGOE": {
+    "apps": 3,
+    "assets": 7,
+    "close_out": false,
+    "first_transaction_from": "VATXW46LOUP2PSOAGAXZSVMIE7FDY6KIFQKGAAGEZ4XYK4IHWEY6BQWLMA",
+    "created_at_timestamp": 1625147951,
+    "received_transactions_before_vote": 1000
+  },
+  "VIXMHEXXX3YCZHLTLC4WTLFJEHCBTQ7RFNT4BFWDFUPHYHZXCMYCLQWOZI": {
+    "apps": 36,
+    "assets": 469,
+    "close_out": false,
+    "first_transaction_from": "VIXMHEXXX3YCZHLTLC4WTLFJEHCBTQ7RFNT4BFWDFUPHYHZXCMYCLQWOZI",
+    "created_at_timestamp": 1677523141,
+    "received_transactions_before_vote": 943
+  },
+  "U7B26A725EC7I7PMOHPCHQZIG3H5R5OFQ2RAYBFRCBACHF4XI2LHRISSME": {
+    "apps": 2,
+    "assets": 211,
+    "close_out": false,
+    "first_transaction_from": "U7B26A725EC7I7PMOHPCHQZIG3H5R5OFQ2RAYBFRCBACHF4XI2LHRISSME",
+    "created_at_timestamp": 1621880912,
+    "received_transactions_before_vote": 390
+  },
+  "7LVMLCJJYXWB3T5FB4RI7PGV67SNHSWUU36YQGWSW7JAE7WGNYQUMFAOF4": {
+    "apps": 18,
+    "assets": 16,
+    "close_out": false,
+    "first_transaction_from": "7LVMLCJJYXWB3T5FB4RI7PGV67SNHSWUU36YQGWSW7JAE7WGNYQUMFAOF4",
+    "created_at_timestamp": 1612671825,
+    "received_transactions_before_vote": 500
+  },
+  "7AUAU3MEGS4MUCW26W4KMSNNEQR5AO7AO54VEYFUYYENW7WY66ZKCA2ZZY": {
+    "apps": 2,
+    "assets": 226,
+    "close_out": false,
+    "first_transaction_from": "7AUAU3MEGS4MUCW26W4KMSNNEQR5AO7AO54VEYFUYYENW7WY66ZKCA2ZZY",
+    "created_at_timestamp": 1621864357,
+    "received_transactions_before_vote": 519
+  },
+  "T4MC43IPLTTBIX5652EY7LENMILPKALPJRL46XVT3QGHB2UISWWLCNJYVI": {
+    "apps": 2,
+    "assets": 72,
+    "close_out": false,
+    "first_transaction_from": "T4MC43IPLTTBIX5652EY7LENMILPKALPJRL46XVT3QGHB2UISWWLCNJYVI",
+    "created_at_timestamp": 1621924954,
+    "received_transactions_before_vote": 219
+  },
+  "C75PZS2BLYCM5JG7TMLUR2NDJG4U66B3OW4QAUBTKKYFBAIJMFYO2G3FN4": {
+    "apps": 3,
+    "assets": 69,
+    "close_out": false,
+    "first_transaction_from": "C75PZS2BLYCM5JG7TMLUR2NDJG4U66B3OW4QAUBTKKYFBAIJMFYO2G3FN4",
+    "created_at_timestamp": 1631129735,
+    "received_transactions_before_vote": 728
+  },
+  "DGHT6UCLD5HEYUZGX3M7WUWDNKA3NXV5YE27KTCYIWDYN4HFVLLVB54ZNQ": {
+    "apps": 12,
+    "assets": 31,
+    "close_out": false,
+    "first_transaction_from": "DGHT6UCLD5HEYUZGX3M7WUWDNKA3NXV5YE27KTCYIWDYN4HFVLLVB54ZNQ",
+    "created_at_timestamp": 1631293851,
+    "received_transactions_before_vote": 961
+  },
+  "JLVTJIG2SWBIOYDPC4GMXJZDSOFBVNULGL6ZH332BDE2QU2OVN3YMHIEFA": {
+    "apps": 2,
+    "assets": 91,
+    "close_out": false,
+    "first_transaction_from": "JLVTJIG2SWBIOYDPC4GMXJZDSOFBVNULGL6ZH332BDE2QU2OVN3YMHIEFA",
+    "created_at_timestamp": 1636634459,
+    "received_transactions_before_vote": 812
+  },
+  "K2OHDDZHI563QUE25DD7OOGL46PRYQJOPTMYQYMUBGXX77GCZROD3I2TYA": {
+    "apps": 2,
+    "assets": 10,
+    "close_out": false,
+    "first_transaction_from": "K2OHDDZHI563QUE25DD7OOGL46PRYQJOPTMYQYMUBGXX77GCZROD3I2TYA",
+    "created_at_timestamp": 1636378728,
+    "received_transactions_before_vote": 506
+  },
+  "MX5OZCO2QNPK3RDU3GK6O7O5WYI67TFXRZ6S56F22TZRH35KVUBKWUXG3Y": {
+    "apps": 2,
+    "assets": 8,
+    "close_out": false,
+    "first_transaction_from": "MX5OZCO2QNPK3RDU3GK6O7O5WYI67TFXRZ6S56F22TZRH35KVUBKWUXG3Y",
+    "created_at_timestamp": 1637088392,
+    "received_transactions_before_vote": 399
+  },
+  "7EKUHK3IHVSVOBBYSVIQDBIGDXLA7V2AA7BHMWFFFKWKQGY3C3X5LJ2ZZI": {
+    "apps": 2,
+    "assets": 105,
+    "close_out": false,
+    "first_transaction_from": "7EKUHK3IHVSVOBBYSVIQDBIGDXLA7V2AA7BHMWFFFKWKQGY3C3X5LJ2ZZI",
+    "created_at_timestamp": 1636007700,
+    "received_transactions_before_vote": 448
+  },
+  "DIOO4R5BOCWLRXHOID57ZOP6R6N23QOT6W6FU7K45UEYI2BQDMNQMHRMHQ": {
+    "apps": 1,
+    "assets": 27,
+    "close_out": false,
+    "first_transaction_from": "DIOO4R5BOCWLRXHOID57ZOP6R6N23QOT6W6FU7K45UEYI2BQDMNQMHRMHQ",
+    "created_at_timestamp": 1641289501,
+    "received_transactions_before_vote": 94
+  },
+  "MMC54CGR224SOA72FVFRIG7UKWJIQNTJKILHTEANB6VTP4LPKCMJREGY2M": {
+    "apps": 4,
+    "assets": 9,
+    "close_out": false,
+    "first_transaction_from": "MMC54CGR224SOA72FVFRIG7UKWJIQNTJKILHTEANB6VTP4LPKCMJREGY2M",
+    "created_at_timestamp": 1626169505,
+    "received_transactions_before_vote": 18
+  },
+  "D6TBUJDLY72PVQGB45HP44P7N5T5OUC4W54HD5KVALDS4PS4JUZKC7UVWM": {
+    "apps": 1,
+    "assets": 40,
+    "close_out": false,
+    "first_transaction_from": "D6TBUJDLY72PVQGB45HP44P7N5T5OUC4W54HD5KVALDS4PS4JUZKC7UVWM",
+    "created_at_timestamp": 1636625540,
+    "received_transactions_before_vote": 692
+  },
+  "RDOQBH3TT4PYNE3BTKWUOZUSAZ6VOIHOZXKU3M6E223PRXD7TZX2TWWTZM": {
+    "apps": 1,
+    "assets": 112,
+    "close_out": false,
+    "first_transaction_from": "W632WQKYDFHHNE2KK2E4OLXI44PICAWIOM4KWKLJCXNTO4BSVI7Y33TVYQ",
+    "created_at_timestamp": 1634879049,
+    "received_transactions_before_vote": 169
+  },
+  "JAIFIYKLDTIDOKFHSGJHYUR4QQCLQ3T6MW6ZUI4TSZ4HXKCG4KX2UAK5TQ": {
+    "apps": 4,
+    "assets": 29,
+    "close_out": false,
+    "first_transaction_from": "4SQ542S44ERTTOW4GRX4BBSHIU5L56QR6DCHRGEFKFOVO7LD5JL35WXWZU",
+    "created_at_timestamp": 1667563548,
+    "received_transactions_before_vote": 83
+  },
+  "UBTXKWTTTCZPEBER4WHSHCCV23WWU47QJBPTATMFRQNK3FEQ5O3PGPZCEQ": {
+    "apps": 14,
+    "assets": 33,
+    "close_out": false,
+    "first_transaction_from": "27D6WYEDJZHLFCLJNDJF63RFYFO32KZHOYBHET7BSVDHSTJQQI5GFN2QVI",
+    "created_at_timestamp": 1618841270,
+    "received_transactions_before_vote": 270
+  },
+  "F7HRV2QIQCE6WSLI7JZQD2JBF2VYFKQD6PSICNQMPVQOYY4BTAY56VT2SU": {
+    "apps": 2,
+    "assets": 121,
+    "close_out": false,
+    "first_transaction_from": "F7HRV2QIQCE6WSLI7JZQD2JBF2VYFKQD6PSICNQMPVQOYY4BTAY56VT2SU",
+    "created_at_timestamp": 1636232915,
+    "received_transactions_before_vote": 611
+  },
+  "YDR66WNFKAWQETNBVPQYJAZNNTY5QQTXJX7S4TUJJHLYPZSLSNQIO7N55M": {
+    "apps": 12,
+    "assets": 21,
+    "close_out": false,
+    "first_transaction_from": "WIDRKKLNMCATH5W2KEZM4BVNE3IVGWIEZTSWKQXKWAU2XIN55YORIN5OME",
+    "created_at_timestamp": 1633981955,
+    "received_transactions_before_vote": 998
+  },
+  "QOVN4Y4NXYJVBK2QRIW27OUJPTGTCBLFH3UIKGYOV7JQXZTWIPHGPDXUOI": {
+    "apps": 2,
+    "assets": 25,
+    "close_out": false,
+    "first_transaction_from": "QOVN4Y4NXYJVBK2QRIW27OUJPTGTCBLFH3UIKGYOV7JQXZTWIPHGPDXUOI",
+    "created_at_timestamp": 1699712892,
+    "received_transactions_before_vote": 97
+  },
+  "52PBYYUVVPBBAHDEMHOH5S5MYT7SCS44JUJUODREZDQ4RE4FYLRNFUY544": {
+    "apps": 28,
+    "assets": 58,
+    "close_out": false,
+    "first_transaction_from": "C7F3OYHCOAMZ5XLCCNSG35A6VZOB575J5RPGOEF5JOG7R2D5XBHATMTQKM",
+    "created_at_timestamp": 1621520557,
+    "received_transactions_before_vote": 830
+  },
+  "AL2SIWA2MNL72TTERNLLOXF7OCAZ2WQ3TAQ7MJZ34VZB5UOVID3OYBC6XA": {
+    "apps": 1,
+    "assets": 38,
+    "close_out": false,
+    "first_transaction_from": "SGEJXN753JQZ2FNQVD4TCTGARZLPKY6UVJ7RKVIBCVIB25BUQ3MEEIBB3Q",
+    "created_at_timestamp": 1636443134,
+    "received_transactions_before_vote": 535
+  },
+  "ER3A7MJVXSTLICBZEVK76ZPSKJJU3BOXEMMTTDGB5MHY2WYDHXLYZYSNMI": {
+    "apps": 2,
+    "assets": 178,
+    "close_out": false,
+    "first_transaction_from": "ER3A7MJVXSTLICBZEVK76ZPSKJJU3BOXEMMTTDGB5MHY2WYDHXLYZYSNMI",
+    "created_at_timestamp": 1626845806,
+    "received_transactions_before_vote": 747
+  },
+  "QQNTEOY2X4AF2JWN3IPUSPQCLC73EKNX3BSCCDOUGZQSILGHBOK4C6G2I4": {
+    "apps": 11,
+    "assets": 1042,
+    "close_out": false,
+    "first_transaction_from": "CL6I36NPCCA6QPW64I64ZUMRUN5HEBIWOTBLYLVUODU6BFX5ONXII2VXYY",
+    "created_at_timestamp": 1633138800,
+    "received_transactions_before_vote": 997
+  },
+  "JXKVVEHSR7IH2XIZBCE565R74CBONH4VWHGPIEERSP2EJLIWGYTSY7GKCQ": {
+    "apps": 4,
+    "assets": 89,
+    "close_out": false,
+    "first_transaction_from": "SGEJXN753JQZ2FNQVD4TCTGARZLPKY6UVJ7RKVIBCVIB25BUQ3MEEIBB3Q",
+    "created_at_timestamp": 1625919181,
+    "received_transactions_before_vote": 999
+  },
+  "N7X3XFIJV3TE3F2ZTAS3Q65NN2ZDQEKEZJG42UP473OZ5AOZQ5SVWTPANE": {
+    "apps": 1,
+    "assets": 64,
+    "close_out": false,
+    "first_transaction_from": "N7X3XFIJV3TE3F2ZTAS3Q65NN2ZDQEKEZJG42UP473OZ5AOZQ5SVWTPANE",
+    "created_at_timestamp": 1632116371,
+    "received_transactions_before_vote": 125
+  },
+  "KXUE76XTWBFY63QS67LX3IXJABGI6SB5GZAUUA3P7WXXLIX55S3DCYQONI": {
+    "apps": 2,
+    "assets": 27,
+    "close_out": false,
+    "first_transaction_from": "ANGEL3CMT7TEXSBJR3DCTJTZCQFOF6FJB6PDKU4IOAMTNPXGR7XUYKOU5Y",
+    "created_at_timestamp": 1639856335,
+    "received_transactions_before_vote": 784
+  },
+  "XL7I5HT5DVWY7FF7D6UAQPRPIOR7YLEVAL7T7L5D3NGOSNCGDI6IOYH2QA": {
+    "apps": 2,
+    "assets": 48,
+    "close_out": false,
+    "first_transaction_from": "XL7I5HT5DVWY7FF7D6UAQPRPIOR7YLEVAL7T7L5D3NGOSNCGDI6IOYH2QA",
+    "created_at_timestamp": 1635414156,
+    "received_transactions_before_vote": 159
+  },
+  "MBNQGKVRMP6QFTSEN57BSF5PR3HY7LBXDOBZRFGYNVX43MQNEQ5ZRY75ZU": {
+    "apps": 2,
+    "assets": 38,
+    "close_out": false,
+    "first_transaction_from": "MBNQGKVRMP6QFTSEN57BSF5PR3HY7LBXDOBZRFGYNVX43MQNEQ5ZRY75ZU",
+    "created_at_timestamp": 1622412389,
+    "received_transactions_before_vote": 177
+  },
+  "ZBSPLRGRNSFAHM7V45NFENAEDHTWRHC4QMXVG7QPHYWRLZTFSPRPKTG55U": {
+    "apps": 2,
+    "assets": 120,
+    "close_out": false,
+    "first_transaction_from": "ZBSPLRGRNSFAHM7V45NFENAEDHTWRHC4QMXVG7QPHYWRLZTFSPRPKTG55U",
+    "created_at_timestamp": 1632035340,
+    "received_transactions_before_vote": 889
+  },
+  "OELL25NGANTVJSIBBNJYOC7KSASW3DO2X5CJWC2CINQ5FAKZ7R5QMERWTY": {
+    "apps": 2,
+    "assets": 22,
+    "close_out": false,
+    "first_transaction_from": "OELL25NGANTVJSIBBNJYOC7KSASW3DO2X5CJWC2CINQ5FAKZ7R5QMERWTY",
+    "created_at_timestamp": 1639752962,
+    "received_transactions_before_vote": 196
+  },
+  "OEHSO3YJ2VWTW3ZOGELBLLLTVI4JKAHDIJILT32XX4XRVGMVRGW2OV4YM4": {
+    "apps": 2,
+    "assets": 88,
+    "close_out": false,
+    "first_transaction_from": "OEHSO3YJ2VWTW3ZOGELBLLLTVI4JKAHDIJILT32XX4XRVGMVRGW2OV4YM4",
+    "created_at_timestamp": 1631302151,
+    "received_transactions_before_vote": 166
+  },
+  "OW5MBNPSKY5VE6NRFUZUF3PBUELWYI7XFP3XPRCXSSIVUZ3RWUBFXJQZG4": {
+    "apps": 3,
+    "assets": 105,
+    "close_out": false,
+    "first_transaction_from": "OW5MBNPSKY5VE6NRFUZUF3PBUELWYI7XFP3XPRCXSSIVUZ3RWUBFXJQZG4",
+    "created_at_timestamp": 1630180531,
+    "received_transactions_before_vote": 744
+  },
+  "G6HJLYZ3VTDZTQCMVL4XDQCENFHSBJIBGZTOGX6ZIL5VJZ2O2BP4QFLZLQ": {
+    "apps": 1,
+    "assets": 73,
+    "close_out": false,
+    "first_transaction_from": "G6HJLYZ3VTDZTQCMVL4XDQCENFHSBJIBGZTOGX6ZIL5VJZ2O2BP4QFLZLQ",
+    "created_at_timestamp": 1631657790,
+    "received_transactions_before_vote": 466
+  },
+  "RS7TLLQRXKBAQDAVTSZC2ZLMVMLNSCL3FOUOESJJZ5XSKFFL56UI6X33CI": {
+    "apps": 38,
+    "assets": 350,
+    "close_out": false,
+    "first_transaction_from": "5LFG65D3CE5AA63PYUE5BDGT3ZTQDBSDSGGDVBAZEZLVP2G4PE5OUAG2CU",
+    "created_at_timestamp": 1632426208,
+    "received_transactions_before_vote": 948
+  },
+  "JGYJLWWEW72B666VUYHJZBXIKBGFS5UDZKNTZYIIJONEVSYE32E7I5RYJY": {
+    "apps": 21,
+    "assets": 1111,
+    "close_out": false,
+    "first_transaction_from": "5LFG65D3CE5AA63PYUE5BDGT3ZTQDBSDSGGDVBAZEZLVP2G4PE5OUAG2CU",
+    "created_at_timestamp": 1649088965,
+    "received_transactions_before_vote": 998
+  },
+  "O3PU3DDZKT5MA45IC6OIPDRARU4KD4EXVF3IMMBQXA6COWONR4QSM2IRRY": {
+    "apps": 5,
+    "assets": 1442,
+    "close_out": false,
+    "first_transaction_from": "SIXBA3PTUANHXD7AWQ2GC6GIRI7BEGGOHMJI7E4IFJ3WFQ2JFZZVF377TU",
+    "created_at_timestamp": 1659965943,
+    "received_transactions_before_vote": 992
+  },
+  "RCN4XS53BDBHG76TDMIHUGSXGXRIBS3YKYCDYYK7NUERX6XLFOLFZCCCHI": {
+    "apps": 3,
+    "assets": 72,
+    "close_out": false,
+    "first_transaction_from": "S7KLF37WYLRWTSI5RJ7OKO7KKX7TZFDTREPTHCFGLJSM5RBANSNRMLTIVQ",
+    "created_at_timestamp": 1631896749,
+    "received_transactions_before_vote": 250
+  },
+  "ARUW4JEBUBVUFWJJUARMGJRQYBNITJP3LAM7VHI3DGZUS3TIUSMSGY2NHU": {
+    "apps": 1,
+    "assets": 21,
+    "close_out": false,
+    "first_transaction_from": "ARUW4JEBUBVUFWJJUARMGJRQYBNITJP3LAM7VHI3DGZUS3TIUSMSGY2NHU",
+    "created_at_timestamp": 1652591387,
+    "received_transactions_before_vote": 144
+  },
+  "5UM3GPAHRXZGTHXZGKDK5A7DDUAZRHOVPFYWSSI77N4KREQFZCVAW2F3BM": {
+    "apps": 2,
+    "assets": 63,
+    "close_out": false,
+    "first_transaction_from": "5Z23JSUFMMAVKM2XRWWJBECUDYZZPNIC5FXY3XVQ7EBDMTSK2LICHKHVKI",
+    "created_at_timestamp": 1631485951,
+    "received_transactions_before_vote": 989
+  },
+  "BFQ5YLCV4TUY7QVLDEBEQ5YW4GBG3NK2L4GGEQ533RBZ46T5XK7KFIYQIE": {
+    "apps": 1,
+    "assets": 16,
+    "close_out": false,
+    "first_transaction_from": "BFQ5YLCV4TUY7QVLDEBEQ5YW4GBG3NK2L4GGEQ533RBZ46T5XK7KFIYQIE",
+    "created_at_timestamp": 1652038129,
+    "received_transactions_before_vote": 142
+  },
+  "6GTBYDMJQ75SITEQTX6YFQGSAQ44S6PMKICSGBDZEFGW5CC2P3WI2WTLHM": {
+    "apps": 7,
+    "assets": 136,
+    "close_out": false,
+    "first_transaction_from": "TL7FKUYEAABU3CTPJWBEOX3AFJMTTCEBA5Q27PT6IZLPHMO5BTIEOBKXSE",
+    "created_at_timestamp": 1626872962,
+    "received_transactions_before_vote": 412
+  },
+  "UXKYJWSHH4R5I2YTNPSTA5JYI35N52HROQGNI6XBMZLQTMJ7LCZ3JCOFAY": {
+    "apps": 1,
+    "assets": 10,
+    "close_out": false,
+    "first_transaction_from": "UXKYJWSHH4R5I2YTNPSTA5JYI35N52HROQGNI6XBMZLQTMJ7LCZ3JCOFAY",
+    "created_at_timestamp": 1679052913,
+    "received_transactions_before_vote": 113
+  },
+  "5Z6BYUGYMJFACLVZBJ5IDXWGSOVTXIE7TUJYCO266GRKDSY43J2IMDCRLA": {
+    "apps": 2,
+    "assets": 20,
+    "close_out": false,
+    "first_transaction_from": "5Z6BYUGYMJFACLVZBJ5IDXWGSOVTXIE7TUJYCO266GRKDSY43J2IMDCRLA",
+    "created_at_timestamp": 1639610357,
+    "received_transactions_before_vote": 475
+  },
+  "RQN3OAWRQVFOQQWPEBR5NM2R3CAB2SY7PPI22Z72DLLWQYOGCBTMSAPFGY": {
+    "apps": 34,
+    "assets": 62,
+    "close_out": false,
+    "first_transaction_from": "RQN3OAWRQVFOQQWPEBR5NM2R3CAB2SY7PPI22Z72DLLWQYOGCBTMSAPFGY",
+    "created_at_timestamp": 1599346875,
+    "received_transactions_before_vote": 733
+  },
+  "YUNVLYMW5UGSGTF6AQE5GNO2OFB22JVNIEY5JT4OVIG5GKSAYU3E3337OI": {
+    "apps": 19,
+    "assets": 48,
+    "close_out": false,
+    "first_transaction_from": "HFN4B44ZSL2ES22EOZMRYF6B4HOO5KYKVQ2T7YLQEXLFX5UC65C6BK2M4Y",
+    "created_at_timestamp": 1614449767,
+    "received_transactions_before_vote": 852
+  },
+  "FCBMBQIXH4ZO4K2Z6ANS3KPGTFLTZM2WSBZ6DRFNAISVYSY2UUXYYWMUHI": {
+    "apps": 8,
+    "assets": 50,
+    "close_out": false,
+    "first_transaction_from": "C7F3OYHCOAMZ5XLCCNSG35A6VZOB575J5RPGOEF5JOG7R2D5XBHATMTQKM",
+    "created_at_timestamp": 1681160190,
+    "received_transactions_before_vote": 956
+  },
+  "7E4DORNZLA7NQZP4GW7ZP4SN3SXUO2HFOXZSQ5U4NIEPN6JVK7COZBS7GM": {
+    "apps": 1,
+    "assets": 94,
+    "close_out": false,
+    "first_transaction_from": "7E4DORNZLA7NQZP4GW7ZP4SN3SXUO2HFOXZSQ5U4NIEPN6JVK7COZBS7GM",
+    "created_at_timestamp": 1632841301,
+    "received_transactions_before_vote": 129
+  },
+  "MTCZ266QPONVCG4LE2W4XWY7YIJNA3AXVW47GIAN36GONXQO2QUEPT6Z7A": {
+    "apps": 12,
+    "assets": 60,
+    "close_out": false,
+    "first_transaction_from": "MTCZ266QPONVCG4LE2W4XWY7YIJNA3AXVW47GIAN36GONXQO2QUEPT6Z7A",
+    "created_at_timestamp": 1623466254,
+    "received_transactions_before_vote": 819
+  },
+  "SLQ4AI7PTCVPKOYRWNJSIUZ5MOCEEV4BXVSEQ2HPXFT6MZD7O7AT7YRUP4": {
+    "apps": 2,
+    "assets": 30,
+    "close_out": false,
+    "first_transaction_from": "SLQ4AI7PTCVPKOYRWNJSIUZ5MOCEEV4BXVSEQ2HPXFT6MZD7O7AT7YRUP4",
+    "created_at_timestamp": 1621868736,
+    "received_transactions_before_vote": 136
+  },
+  "GGOXDOM2ADO52S25TQFLKVDEZFGEBEJPQPNJDXSEBGT245M55O3KUPCHUI": {
+    "apps": 2,
+    "assets": 80,
+    "close_out": false,
+    "first_transaction_from": "PLFMZI55RV4W5IAZPXHYDNPJWEQ3GOVYP7FGKB7QW3N3FXCDHIKZQDSXJU",
+    "created_at_timestamp": 1631273236,
+    "received_transactions_before_vote": 532
+  },
+  "W3JTRBYUF5CZJQRNGLGVLQZCEHBCFNPQ347GSJLCWJEAFK2ADMCWT2LFYY": {
+    "apps": 2,
+    "assets": 65,
+    "close_out": false,
+    "first_transaction_from": "W3JTRBYUF5CZJQRNGLGVLQZCEHBCFNPQ347GSJLCWJEAFK2ADMCWT2LFYY",
+    "created_at_timestamp": 1631479722,
+    "received_transactions_before_vote": 743
+  },
+  "EM6OWVWFBDGIZABZKIQAJMB5236AHW6F2H7334RQITXFML6XAGO6IDZABI": {
+    "apps": 1,
+    "assets": 27,
+    "close_out": false,
+    "first_transaction_from": "EM6OWVWFBDGIZABZKIQAJMB5236AHW6F2H7334RQITXFML6XAGO6IDZABI",
+    "created_at_timestamp": 1630795802,
+    "received_transactions_before_vote": 50
+  },
+  "7X2SGVULWPYAJX3Q6OMGTQE3B4YTCST6O2SSQB7M64PMIOMX3AUD44LFKI": {
+    "apps": 1,
+    "assets": 43,
+    "close_out": false,
+    "first_transaction_from": "7X2SGVULWPYAJX3Q6OMGTQE3B4YTCST6O2SSQB7M64PMIOMX3AUD44LFKI",
+    "created_at_timestamp": 1642281603,
+    "received_transactions_before_vote": 109
+  },
+  "2HYTI5GAB3WAJL5MZKQYUHZHYQJBEUD54OQNFZNBCPZXFPVDZOSCGUNORU": {
+    "apps": 68,
+    "assets": 299,
+    "close_out": false,
+    "first_transaction_from": "2HYTI5GAB3WAJL5MZKQYUHZHYQJBEUD54OQNFZNBCPZXFPVDZOSCGUNORU",
+    "created_at_timestamp": 1614174356,
+    "received_transactions_before_vote": 448
+  },
+  "FOISCV3WDHKPFF7QTI5O2OBXJJDHNYZMO6JZF2SLTTDVPLGBDNSG3JLFIY": {
+    "apps": 5,
+    "assets": 67,
+    "close_out": false,
+    "first_transaction_from": "FOISCV3WDHKPFF7QTI5O2OBXJJDHNYZMO6JZF2SLTTDVPLGBDNSG3JLFIY",
+    "created_at_timestamp": 1631486238,
+    "received_transactions_before_vote": 387
+  },
+  "OKBQ3PX6DLDYXKQID5J6Q4MQEVXNENQ54A7UFUDGXEHW5JGYNCBBIBDB3I": {
+    "apps": 31,
+    "assets": 408,
+    "close_out": false,
+    "first_transaction_from": "BANK5GQBLUUWE6XQDYPHUS7LWFGP3BOHVDHSNUSV2CPBX4KMJZHXXUGRW4",
+    "created_at_timestamp": 1624658127,
+    "received_transactions_before_vote": 974
+  },
+  "7TWT2MQ6ZT5GDFSIFVY7KCRYJOC7GLRXCD7GQBIUWGL3QTHB6ZTPI56XZA": {
+    "apps": 33,
+    "assets": 51,
+    "close_out": false,
+    "first_transaction_from": "7TWT2MQ6ZT5GDFSIFVY7KCRYJOC7GLRXCD7GQBIUWGL3QTHB6ZTPI56XZA",
+    "created_at_timestamp": 1646846529,
+    "received_transactions_before_vote": 794
+  },
+  "DRAGMZST2EHN4RRMPWZXZ2L5VRL6CLIT22AY7ASDJ5F5WTLBK4D6XVARTU": {
+    "apps": 2,
+    "assets": 39,
+    "close_out": false,
+    "first_transaction_from": "DRAGMZST2EHN4RRMPWZXZ2L5VRL6CLIT22AY7ASDJ5F5WTLBK4D6XVARTU",
+    "created_at_timestamp": 1669892042,
+    "received_transactions_before_vote": 874
+  },
+  "XLTBYOFGUBJRGZAWMH7TZYIMJHHA3BAZ47X533LVCQ4LQRDMRI6LT73VSM": {
+    "apps": 1,
+    "assets": 38,
+    "close_out": false,
+    "first_transaction_from": "XLTBYOFGUBJRGZAWMH7TZYIMJHHA3BAZ47X533LVCQ4LQRDMRI6LT73VSM",
+    "created_at_timestamp": 1655985417,
+    "received_transactions_before_vote": 296
+  },
+  "ASZ5QKWFW3UODLFMWLIXFOFDAHB5TUA25DOJFSCDUFB2TOW2EP6IKAUS6E": {
+    "apps": 12,
+    "assets": 86,
+    "close_out": false,
+    "first_transaction_from": "6RBBQIOSJH5NINVTTAKE2EIO7EN3TW23O3XN67IPOXNE3KNZF3HYO7EIII",
+    "created_at_timestamp": 1635390286,
+    "received_transactions_before_vote": 989
+  },
+  "YLDYFXBWR6SSH54EDDALD5LTEO2XWRYPSUYXN2QOOYGZDSEKXOFF2IKWJM": {
+    "apps": 73,
+    "assets": 275,
+    "close_out": false,
+    "first_transaction_from": "YLDYFXBWR6SSH54EDDALD5LTEO2XWRYPSUYXN2QOOYGZDSEKXOFF2IKWJM",
+    "created_at_timestamp": 1622929566,
+    "received_transactions_before_vote": 845
+  },
+  "WQEZQZQK6565C5Y3SL7Z3B6W7JJMYG2RZGW5CU7FN6X6IRKYXFOTUYLMMA": {
+    "apps": 2,
+    "assets": 3,
+    "close_out": false,
+    "first_transaction_from": "WFOU7JAUNMTYV5FSMNE4COWYFSV6OL6UMF3UULHAGJBLKXT3X3HVW32DC4",
+    "created_at_timestamp": 1633884814,
+    "received_transactions_before_vote": 47
+  },
+  "TMZ3ZYR5TBPEQTMTHMROEZYS24JMUXEVP7LGZVNKBIPPUWGAQ7EO4ES32A": {
+    "apps": 3,
+    "assets": 37,
+    "close_out": false,
+    "first_transaction_from": "GUB36STJXT4IBHFXF24H7Q4SPKSEQGMH5Y5VSFPFKZ7J4OKSLYTWBEDJBE",
+    "created_at_timestamp": 1647538284,
+    "received_transactions_before_vote": 984
+  },
+  "YICPUBADTMS6FWUSUGVNHDCLO776XYRPZ2FKHZFV2UJWIHQGFOUZNO5SA4": {
+    "apps": 2,
+    "assets": 33,
+    "close_out": false,
+    "first_transaction_from": "ANGEL3CMT7TEXSBJR3DCTJTZCQFOF6FJB6PDKU4IOAMTNPXGR7XUYKOU5Y",
+    "created_at_timestamp": 1635535514,
+    "received_transactions_before_vote": 641
+  },
+  "BXNEUZ5AHYWPFSWNMXZL7TNPLUN4XTHBREK3PYK5DFQINR5LOYQXVNKMTU": {
+    "apps": 1,
+    "assets": 38,
+    "close_out": false,
+    "first_transaction_from": "ANGEL3CMT7TEXSBJR3DCTJTZCQFOF6FJB6PDKU4IOAMTNPXGR7XUYKOU5Y",
+    "created_at_timestamp": 1637054244,
+    "received_transactions_before_vote": 485
+  },
+  "ESSL7ZPOTR7Y7UQM3CQDQJC6J2QJ6CPU7ZUZBUXP2MVL35Y3SGZVVWYNQQ": {
+    "apps": 1,
+    "assets": 32,
+    "close_out": false,
+    "first_transaction_from": "ESSL7ZPOTR7Y7UQM3CQDQJC6J2QJ6CPU7ZUZBUXP2MVL35Y3SGZVVWYNQQ",
+    "created_at_timestamp": 1626528682,
+    "received_transactions_before_vote": 504
+  },
+  "D6JRZ4WJEZPX6RRKP5QS3SP23ZQ7U5YOEAGYTYBBA7NNQQ3C75SEKUYAAE": {
+    "apps": 38,
+    "assets": 52,
+    "close_out": false,
+    "first_transaction_from": "D6JRZ4WJEZPX6RRKP5QS3SP23ZQ7U5YOEAGYTYBBA7NNQQ3C75SEKUYAAE",
+    "created_at_timestamp": 1616870802,
+    "received_transactions_before_vote": 874
+  },
+  "SRMFR3WVRQW5KR4SAWLVJHFNM6RY4XGIEV2MUB3I3O6FWYZZQEPXHD5AKY": {
+    "apps": 1,
+    "assets": 49,
+    "close_out": false,
+    "first_transaction_from": "SRMFR3WVRQW5KR4SAWLVJHFNM6RY4XGIEV2MUB3I3O6FWYZZQEPXHD5AKY",
+    "created_at_timestamp": 1630896153,
+    "received_transactions_before_vote": 125
+  },
+  "APU52OLBW4IYPD3MXWVROL6K366IYFH5LKQKRJPRGYECQGTSXDTZHZRVA4": {
+    "apps": 2,
+    "assets": 148,
+    "close_out": false,
+    "first_transaction_from": "APU52OLBW4IYPD3MXWVROL6K366IYFH5LKQKRJPRGYECQGTSXDTZHZRVA4",
+    "created_at_timestamp": 1633960803,
+    "received_transactions_before_vote": 338
+  },
+  "OTAKKCTREWZWQL4JSWRADK3DESUYYPMD6W3W7TBIYWRW5B46DSOXQKZH5A": {
+    "apps": 1,
+    "assets": 7,
+    "close_out": false,
+    "first_transaction_from": "H3F4BUTKFQLXGODNAS54RQPPMRR5D7IY44GAXMBFVFJNZYYWF6GIUO2UIA",
+    "created_at_timestamp": 1652380299,
+    "received_transactions_before_vote": 250
+  },
+  "6K4TICFL7VNTAXJJYZZCW6ABXZFONDWSACXXOWNXQ47TNFTZDEYKWI37UE": {
+    "apps": 2,
+    "assets": 39,
+    "close_out": false,
+    "first_transaction_from": "6K4TICFL7VNTAXJJYZZCW6ABXZFONDWSACXXOWNXQ47TNFTZDEYKWI37UE",
+    "created_at_timestamp": 1631268411,
+    "received_transactions_before_vote": 390
+  },
+  "66YINPUJ2WYVG44S5UKES5HUAFN7A4ZGHPOPHW4E4HQHMVFL32GEW42K6M": {
+    "apps": 3,
+    "assets": 40,
+    "close_out": false,
+    "first_transaction_from": "JZD6IRR656G7CCSQ3PX5PXA3M7KDIWSKSLUFZYWTDT3ICOZ3K3ZUHV5KBQ",
+    "created_at_timestamp": 1678269912,
+    "received_transactions_before_vote": 130
+  },
+  "UMBRHQCVFVVLNNAARU75F6FCIEKSNAZTJUYZGTAUZX2AQFDFQUPO45TX7M": {
+    "apps": 5,
+    "assets": 32,
+    "close_out": false,
+    "first_transaction_from": "UMBRHQCVFVVLNNAARU75F6FCIEKSNAZTJUYZGTAUZX2AQFDFQUPO45TX7M",
+    "created_at_timestamp": 1615905795,
+    "received_transactions_before_vote": 969
+  },
+  "FH34IXQ7RDGGGCUHN7RFRLFKYOBE7EABONU743MWMIFNHORQNUMIP6SRYM": {
+    "apps": 1,
+    "assets": 61,
+    "close_out": false,
+    "first_transaction_from": "FH34IXQ7RDGGGCUHN7RFRLFKYOBE7EABONU743MWMIFNHORQNUMIP6SRYM",
+    "created_at_timestamp": 1631624192,
+    "received_transactions_before_vote": 324
+  },
+  "SMREGNGEXPVAFHM6VLW35MHFWVFC2I75AR5TJF6BA3MCWM43DVPK77TJQA": {
+    "apps": 3,
+    "assets": 89,
+    "close_out": false,
+    "first_transaction_from": "SMREGNGEXPVAFHM6VLW35MHFWVFC2I75AR5TJF6BA3MCWM43DVPK77TJQA",
+    "created_at_timestamp": 1631723362,
+    "received_transactions_before_vote": 450
+  },
+  "C2QDFM3L6ARNANWXQ2MV6FXBQIYCQ5U2NJS72C4V6FETHXHFAXPPRWUTHY": {
+    "apps": 1,
+    "assets": 42,
+    "close_out": false,
+    "first_transaction_from": "C2QDFM3L6ARNANWXQ2MV6FXBQIYCQ5U2NJS72C4V6FETHXHFAXPPRWUTHY",
+    "created_at_timestamp": 1680020269,
+    "received_transactions_before_vote": 184
+  },
+  "NVS3XHBKNLCNPQFL7PJ2RJ4PDWIZS3AT5JB32X7J3TKU4OZPFV453XENEE": {
+    "apps": 2,
+    "assets": 70,
+    "close_out": false,
+    "first_transaction_from": "NVS3XHBKNLCNPQFL7PJ2RJ4PDWIZS3AT5JB32X7J3TKU4OZPFV453XENEE",
+    "created_at_timestamp": 1631395843,
+    "received_transactions_before_vote": 328
+  },
+  "UPVHAZ5FDV5JLSRKODLUXKKIJJSHSAGTUIFWYZR6KSRZONQCB5SVECHNXE": {
+    "apps": 2,
+    "assets": 188,
+    "close_out": false,
+    "first_transaction_from": "UPVHAZ5FDV5JLSRKODLUXKKIJJSHSAGTUIFWYZR6KSRZONQCB5SVECHNXE",
+    "created_at_timestamp": 1631182537,
+    "received_transactions_before_vote": 412
+  },
+  "45E54YIHANBJCE6UFJ3QAHQG2IHGCWWPQUN74O5B5ENQNRE2UTWKITAMF4": {
+    "apps": 2,
+    "assets": 61,
+    "close_out": false,
+    "first_transaction_from": "PLFMZI55RV4W5IAZPXHYDNPJWEQ3GOVYP7FGKB7QW3N3FXCDHIKZQDSXJU",
+    "created_at_timestamp": 1636358404,
+    "received_transactions_before_vote": 403
+  },
+  "ISUNDM6MM5GMUACTIUULYIJI2QEAHJ7AEJQQWO7UJME55W4BZBSBILS5GQ": {
+    "apps": 4,
+    "assets": 6,
+    "close_out": false,
+    "first_transaction_from": "PERAAAA6L3OR2Q66TF3CUWDZBVWKDXQKSMEHR2PGDE2QW3KHOOX27MGNCU",
+    "created_at_timestamp": 1681058011,
+    "received_transactions_before_vote": 25
+  },
+  "KNU2B5PLRRYC53BUIRP2W7ZOY6ZFRLFTX2CPAZMY4DBMGIB67KFHFZ6RPM": {
+    "apps": 2,
+    "assets": 41,
+    "close_out": false,
+    "first_transaction_from": "KNU2B5PLRRYC53BUIRP2W7ZOY6ZFRLFTX2CPAZMY4DBMGIB67KFHFZ6RPM",
+    "created_at_timestamp": 1636109687,
+    "received_transactions_before_vote": 109
+  },
+  "AJBEADXNISADAJ5PNUJ5WTYXQGO6IG7I43DFQL3WJ6XYAM5UWAR5UXY7YA": {
+    "apps": 2,
+    "assets": 52,
+    "close_out": false,
+    "first_transaction_from": "AJBEADXNISADAJ5PNUJ5WTYXQGO6IG7I43DFQL3WJ6XYAM5UWAR5UXY7YA",
+    "created_at_timestamp": 1673703639,
+    "received_transactions_before_vote": 109
+  },
+  "BB7YYIYUIN47YV5K52DDPGJFYWX3IUHOWX4HAYEJ4HFYMWE4B6OR6HRDJY": {
+    "apps": 3,
+    "assets": 19,
+    "close_out": false,
+    "first_transaction_from": "BB7YYIYUIN47YV5K52DDPGJFYWX3IUHOWX4HAYEJ4HFYMWE4B6OR6HRDJY",
+    "created_at_timestamp": 1626500119,
+    "received_transactions_before_vote": 61
+  },
+  "MLS3ZBC5BTSRIPKSB7KEQGLT7X5EMSXRR4XJKB4TNWGPRISXGGIKNGLAAY": {
+    "apps": 6,
+    "assets": 267,
+    "close_out": false,
+    "first_transaction_from": "MLS3ZBC5BTSRIPKSB7KEQGLT7X5EMSXRR4XJKB4TNWGPRISXGGIKNGLAAY",
+    "created_at_timestamp": 1621372244,
+    "received_transactions_before_vote": 718
+  },
+  "JHWOMPN4BTS62ALWHBMGEER3BBQRFSLRUQ6WF7KAELCR3FCKMV2LDFPOUA": {
+    "apps": 3,
+    "assets": 62,
+    "close_out": false,
+    "first_transaction_from": "JHWOMPN4BTS62ALWHBMGEER3BBQRFSLRUQ6WF7KAELCR3FCKMV2LDFPOUA",
+    "created_at_timestamp": 1631892948,
+    "received_transactions_before_vote": 424
+  },
+  "B5AEC5RV2UU4NRJHCFWXBP4QF5IP2KD5FXM4HO7BM6DZGNJEDLQBX5YRLU": {
+    "apps": 1,
+    "assets": 38,
+    "close_out": false,
+    "first_transaction_from": "B5AEC5RV2UU4NRJHCFWXBP4QF5IP2KD5FXM4HO7BM6DZGNJEDLQBX5YRLU",
+    "created_at_timestamp": 1637009204,
+    "received_transactions_before_vote": 262
+  },
+  "IYK63ZF4AP5EZ5UP3K6GGXMS4PA5Y4DJ4ZT6OYZIE4C2LG4JM7D67YQTQM": {
+    "apps": 1,
+    "assets": 51,
+    "close_out": false,
+    "first_transaction_from": "IYK63ZF4AP5EZ5UP3K6GGXMS4PA5Y4DJ4ZT6OYZIE4C2LG4JM7D67YQTQM",
+    "created_at_timestamp": 1685949058,
+    "received_transactions_before_vote": 148
+  },
+  "VHHUTZSWKCE4AVSUX6BKR34XQJDSL7OQAOL34YYGFIL2YFRTCT3GW6VBRM": {
+    "apps": 1,
+    "assets": 8,
+    "close_out": false,
+    "first_transaction_from": "VHHUTZSWKCE4AVSUX6BKR34XQJDSL7OQAOL34YYGFIL2YFRTCT3GW6VBRM",
+    "created_at_timestamp": 1632647631,
+    "received_transactions_before_vote": 71
+  },
+  "VWCINTPJISM55RSCZYDWVTX6KVGS55GKMGO6YFP6BBSIH5F7I65254RHBI": {
+    "apps": 1,
+    "assets": 140,
+    "close_out": false,
+    "first_transaction_from": "PLFMZI55RV4W5IAZPXHYDNPJWEQ3GOVYP7FGKB7QW3N3FXCDHIKZQDSXJU",
+    "created_at_timestamp": 1636197252,
+    "received_transactions_before_vote": 262
+  },
+  "AINNHMD4WP6TW72VD7N4T3VCWQGDNJ53IBW375PVA74SDGX56DGYPEMJS4": {
+    "apps": 6,
+    "assets": 23,
+    "close_out": false,
+    "first_transaction_from": "AINNHMD4WP6TW72VD7N4T3VCWQGDNJ53IBW375PVA74SDGX56DGYPEMJS4",
+    "created_at_timestamp": 1639082764,
+    "received_transactions_before_vote": 189
+  },
+  "2EU5V72CDXEDMJNQWLENTZHGF2OETKQOAMKQOYO4BHK5WHG43UVD5PPDX4": {
+    "apps": 1,
+    "assets": 7,
+    "close_out": false,
+    "first_transaction_from": "FONC4XH5QPJNUPZPHCMFGPDQ43J3VWYJ7ECI43AVGAGDIHKVBHPOH7YEXA",
+    "created_at_timestamp": 1679417513,
+    "received_transactions_before_vote": 16
+  },
+  "ARRWL4OZMJGLMVZPKIXXJUTXVBPXONKRM67VKDUXMMDVYURCSQPISNB6CE": {
+    "apps": 5,
+    "assets": 110,
+    "close_out": false,
+    "first_transaction_from": "ARRWL4OZMJGLMVZPKIXXJUTXVBPXONKRM67VKDUXMMDVYURCSQPISNB6CE",
+    "created_at_timestamp": 1621372477,
+    "received_transactions_before_vote": 793
+  },
+  "HRTCA4GIQMIPYNFWFJGFEJLIQZRZOB3HGF7DM7YEBGDAJDBZH4S744HVX4": {
+    "apps": 1,
+    "assets": 24,
+    "close_out": false,
+    "first_transaction_from": "HRTCA4GIQMIPYNFWFJGFEJLIQZRZOB3HGF7DM7YEBGDAJDBZH4S744HVX4",
+    "created_at_timestamp": 1637588979,
+    "received_transactions_before_vote": 181
+  },
+  "N72OYZQCFPZDIGL7SEI465JDO3RLPPV277JYA6PW227JRD3EWUYCZQSSIU": {
+    "apps": 1,
+    "assets": 55,
+    "close_out": false,
+    "first_transaction_from": "N72OYZQCFPZDIGL7SEI465JDO3RLPPV277JYA6PW227JRD3EWUYCZQSSIU",
+    "created_at_timestamp": 1639515538,
+    "received_transactions_before_vote": 94
+  },
+  "YKKUDFOLQNKQ4VRX5TQRTSR6JSGNEI6SU5RW6LKTUQE2CCA6XCYPFKONMA": {
+    "apps": 1,
+    "assets": 22,
+    "close_out": false,
+    "first_transaction_from": "YKKUDFOLQNKQ4VRX5TQRTSR6JSGNEI6SU5RW6LKTUQE2CCA6XCYPFKONMA",
+    "created_at_timestamp": 1631262643,
+    "received_transactions_before_vote": 529
+  },
+  "4X4QHVRAKBJK55BOKOJ3CN3K2SJN2D2PM5CWSRJD7PSNZ2PUEJLD2KREXY": {
+    "apps": 2,
+    "assets": 2,
+    "close_out": false,
+    "first_transaction_from": "4X4QHVRAKBJK55BOKOJ3CN3K2SJN2D2PM5CWSRJD7PSNZ2PUEJLD2KREXY",
+    "created_at_timestamp": 1634044167,
+    "received_transactions_before_vote": 92
+  },
+  "PUEISZ7IQZZSBGXSLOLYFGXVYX5H6V2OWRNQSU7BM4X3A2UIC3EQJCCBAU": {
+    "apps": 19,
+    "assets": 766,
+    "close_out": false,
+    "first_transaction_from": "PUEISZ7IQZZSBGXSLOLYFGXVYX5H6V2OWRNQSU7BM4X3A2UIC3EQJCCBAU",
+    "created_at_timestamp": 1635894918,
+    "received_transactions_before_vote": 991
+  },
+  "F2GKJJSQYMTPLONF6EF7652QEY7AC4EQCDKBH7O4DWPZPCIU4PZQEXQBYI": {
+    "apps": 2,
+    "assets": 50,
+    "close_out": false,
+    "first_transaction_from": "F2GKJJSQYMTPLONF6EF7652QEY7AC4EQCDKBH7O4DWPZPCIU4PZQEXQBYI",
+    "created_at_timestamp": 1636180722,
+    "received_transactions_before_vote": 216
+  },
+  "JD2UBV4EG7SFZKC67CLDA6YXZRQN6DZ4KKO5GVDU54OHGY5KYPP227D4OE": {
+    "apps": 2,
+    "assets": 178,
+    "close_out": false,
+    "first_transaction_from": "JD2UBV4EG7SFZKC67CLDA6YXZRQN6DZ4KKO5GVDU54OHGY5KYPP227D4OE",
+    "created_at_timestamp": 1621871299,
+    "received_transactions_before_vote": 1000
+  },
+  "OX6F52EJU2SFFW5YZV6PBPXD4WZ6GVQM26HNVQ7YXOIQ6YQFHEIJQEYALA": {
+    "apps": 19,
+    "assets": 60,
+    "close_out": false,
+    "first_transaction_from": "C7F3OYHCOAMZ5XLCCNSG35A6VZOB575J5RPGOEF5JOG7R2D5XBHATMTQKM",
+    "created_at_timestamp": 1638203274,
+    "received_transactions_before_vote": 882
+  },
+  "UERBOIBXMZMTR44LZZEOP3HXYXCVJ3IJDTTKLN2QO2EPCBQC7PCA56I2CQ": {
+    "apps": 3,
+    "assets": 43,
+    "close_out": false,
+    "first_transaction_from": "ANGEL3CMT7TEXSBJR3DCTJTZCQFOF6FJB6PDKU4IOAMTNPXGR7XUYKOU5Y",
+    "created_at_timestamp": 1621872889,
+    "received_transactions_before_vote": 273
+  },
+  "ME2U53GMEA5HGT5JT3XORFSCOSAGTFA6Y47EKQXMVIZTBWBGEJYPNTQNUE": {
+    "apps": 1,
+    "assets": 73,
+    "close_out": false,
+    "first_transaction_from": "ME2U53GMEA5HGT5JT3XORFSCOSAGTFA6Y47EKQXMVIZTBWBGEJYPNTQNUE",
+    "created_at_timestamp": 1677504183,
+    "received_transactions_before_vote": 995
+  },
+  "YXCZ3V4RMCQTZIDOA2VKKPQ27LUBLSH3QYVA5T7VB7ZNAGAQ4IHF57WGKY": {
+    "apps": 2,
+    "assets": 6,
+    "close_out": false,
+    "first_transaction_from": "TINYGRZLXA3SNQ5LF4BCPKVUGPBC6VCVQB2O7KBAP7AXPE2NMX5RSJM5NE",
+    "created_at_timestamp": 1669904776,
+    "received_transactions_before_vote": 28
+  },
+  "SP5MR5IXPZC3HYESZI7B4L7Z5QIYTTVLHVCYP2JR7MTR7AUEA6YCGNU2YE": {
+    "apps": 1,
+    "assets": 71,
+    "close_out": false,
+    "first_transaction_from": "MC3DY6TZJ4TBV3ZXIGWNAU3RDLNPORSEM3YWMR6TTWY2ULA77A6TF46LBE",
+    "created_at_timestamp": 1636488729,
+    "received_transactions_before_vote": 192
+  },
+  "C3SMQS3HMN5GKGLTFUKDLG6325GXDOBYCC6GGQTGO6GGTYIYG2N36H4F7E": {
+    "apps": 4,
+    "assets": 18,
+    "close_out": false,
+    "first_transaction_from": "H7STLDUWQ7XKCGQYDPC3ORTG6AK4AMSJWUOF7E2B5YT5233T7H3VUS7OW4",
+    "created_at_timestamp": 1655514768,
+    "received_transactions_before_vote": 43
+  },
+  "MSP6S67VUBDGDC52LZVJNO44RZGWAKXY7CI2JZQZ7ZGPA3IIXOTVTA6UB4": {
+    "apps": 1,
+    "assets": 5,
+    "close_out": false,
+    "first_transaction_from": "MSP6S67VUBDGDC52LZVJNO44RZGWAKXY7CI2JZQZ7ZGPA3IIXOTVTA6UB4",
+    "created_at_timestamp": 1668192889,
+    "received_transactions_before_vote": 32
+  },
+  "WLEWNHMVSVE6EGMMN7FT6N5K2ZLLXSZIOKNANJFLSTER5JNNWNLSYSBFDM": {
+    "apps": 20,
+    "assets": 834,
+    "close_out": false,
+    "first_transaction_from": "OATYX35JA6S6XKXRWTMEF7ILI6C6EQ6XYWFF3UXZ6HZWMP5EC56FDCUS5M",
+    "created_at_timestamp": 1678112272,
+    "received_transactions_before_vote": 829
+  },
+  "DCF6MF4DZX44HDA6FN3FOO3FZAMAADXH5YH4GSFUBUXI4CAIYNEANF7CUY": {
+    "apps": 1,
+    "assets": 193,
+    "close_out": false,
+    "first_transaction_from": "DCF6MF4DZX44HDA6FN3FOO3FZAMAADXH5YH4GSFUBUXI4CAIYNEANF7CUY",
+    "created_at_timestamp": 1635728621,
+    "received_transactions_before_vote": 255
+  },
+  "ZZ33E7FV5POGBZWMADNQSZT6I6PXRDTUAWEDGDYPFJDTZMOQZW7PJNVORE": {
+    "apps": 117,
+    "assets": 853,
+    "close_out": false,
+    "first_transaction_from": "ZZ33E7FV5POGBZWMADNQSZT6I6PXRDTUAWEDGDYPFJDTZMOQZW7PJNVORE",
+    "created_at_timestamp": 1622731951,
+    "received_transactions_before_vote": 1000
+  },
+  "NGZS4RRPJL5OP5GI5VBDK3MHIWFQX3QYN4SGGA7HYJLEHS6XQBKXI3XDLI": {
+    "apps": 3,
+    "assets": 623,
+    "close_out": false,
+    "first_transaction_from": "CL6I36NPCCA6QPW64I64ZUMRUN5HEBIWOTBLYLVUODU6BFX5ONXII2VXYY",
+    "created_at_timestamp": 1655059079,
+    "received_transactions_before_vote": 631
+  },
+  "FDJ4AGQPTCZVZRROHH6JQMMTY6FIUSBUO6RFJXS3PDGD2HOND43IBI62VU": {
+    "apps": 2,
+    "assets": 13,
+    "close_out": false,
+    "first_transaction_from": "FDJ4AGQPTCZVZRROHH6JQMMTY6FIUSBUO6RFJXS3PDGD2HOND43IBI62VU",
+    "created_at_timestamp": 1642011879,
+    "received_transactions_before_vote": 74
+  },
+  "PTNGLRU2547JGUWZSVPBMNLHJA2E6ZRCFBYNGXG3XODP3CNOJHB7TRKV3Q": {
+    "apps": 1,
+    "assets": 5,
+    "close_out": false,
+    "first_transaction_from": "AIRDROPKWP6A2LFGAKY372OE2LVCHFVKIYDP6X4UYJ2BCMNKMWD3O6UDDM",
+    "created_at_timestamp": 1631236694,
+    "received_transactions_before_vote": 60
+  },
+  "PJPW6JUYFCZSQ45XHQS73TKJV7JSROI7T47ILSYS5YXWNIOYK4QKLTKRE4": {
+    "apps": 4,
+    "assets": 86,
+    "close_out": false,
+    "first_transaction_from": "PJPW6JUYFCZSQ45XHQS73TKJV7JSROI7T47ILSYS5YXWNIOYK4QKLTKRE4",
+    "created_at_timestamp": 1621372762,
+    "received_transactions_before_vote": 423
+  },
+  "FR4XSE4W5HPTYTUE7KKPAFAJ4C27NIPE5FCJOMYX7MHWWM3DJ45NBLXP5I": {
+    "apps": 5,
+    "assets": 1025,
+    "close_out": false,
+    "first_transaction_from": "FR4XSE4W5HPTYTUE7KKPAFAJ4C27NIPE5FCJOMYX7MHWWM3DJ45NBLXP5I",
+    "created_at_timestamp": 1629839307,
+    "received_transactions_before_vote": 1000
+  },
+  "FRGVE7PYXNXONT3JVEOIPESNN7G3NKADG2P5L4UCXYM5BGF5WTZZJVBOAM": {
+    "apps": 2,
+    "assets": 226,
+    "close_out": false,
+    "first_transaction_from": "FRGVE7PYXNXONT3JVEOIPESNN7G3NKADG2P5L4UCXYM5BGF5WTZZJVBOAM",
+    "created_at_timestamp": 1630156075,
+    "received_transactions_before_vote": 1000
+  },
+  "ITDYBTEGOKYICCX46OX3SXZVUYX5PKMPQEIEVWKCDDC5SBRWNCNIOJ5ILU": {
+    "apps": 77,
+    "assets": 125,
+    "close_out": false,
+    "first_transaction_from": "ITDYBTEGOKYICCX46OX3SXZVUYX5PKMPQEIEVWKCDDC5SBRWNCNIOJ5ILU",
+    "created_at_timestamp": 1624279475,
+    "received_transactions_before_vote": 915
+  },
+  "HEJNR6LOZFGEPHRJTPSDREXTOFYIXQR2UV4NYBM7R3NE2DCAVMQVH2MHYY": {
+    "apps": 1,
+    "assets": 160,
+    "close_out": false,
+    "first_transaction_from": "HEJNR6LOZFGEPHRJTPSDREXTOFYIXQR2UV4NYBM7R3NE2DCAVMQVH2MHYY",
+    "created_at_timestamp": 1633031392,
+    "received_transactions_before_vote": 341
+  },
+  "LH3VFQHBXJPUTD5ERDYXLAZVZVGCLKOYUWS2WTF7WOCY62APPIZ2HSKULQ": {
+    "apps": 2,
+    "assets": 52,
+    "close_out": false,
+    "first_transaction_from": "LH3VFQHBXJPUTD5ERDYXLAZVZVGCLKOYUWS2WTF7WOCY62APPIZ2HSKULQ",
+    "created_at_timestamp": 1635747042,
+    "received_transactions_before_vote": 316
+  },
+  "44QZU5ZOFDJTZXW6UTTNMFGUHNZXUMVG23UCPYCITHX3PJH7LVEPPGNFME": {
+    "apps": 3,
+    "assets": 182,
+    "close_out": false,
+    "first_transaction_from": "44QZU5ZOFDJTZXW6UTTNMFGUHNZXUMVG23UCPYCITHX3PJH7LVEPPGNFME",
+    "created_at_timestamp": 1631648549,
+    "received_transactions_before_vote": 845
+  },
+  "FMAUTBNDYK2A25QFVN3NXYHVEFUQKMFN6PZQYA2RHQLKQCWZUJBUX6FPRI": {
+    "apps": 1,
+    "assets": 26,
+    "close_out": false,
+    "first_transaction_from": "FMAUTBNDYK2A25QFVN3NXYHVEFUQKMFN6PZQYA2RHQLKQCWZUJBUX6FPRI",
+    "created_at_timestamp": 1685936735,
+    "received_transactions_before_vote": 84
+  },
+  "PALGA7BCRT5OWSGVKHDYY2HP335EB3LL6I7PBUHN2AIS24YF5QN7UQBWBM": {
+    "apps": 28,
+    "assets": 1271,
+    "close_out": false,
+    "first_transaction_from": "PALGA7BCRT5OWSGVKHDYY2HP335EB3LL6I7PBUHN2AIS24YF5QN7UQBWBM",
+    "created_at_timestamp": 1636288164,
+    "received_transactions_before_vote": 526
+  },
+  "Y2NIIBY6XPXRDCNUAO56VKYPVKAE7IG6QQ6QRBLRM2CGE72WGBXM7BQDCU": {
+    "apps": 2,
+    "assets": 14,
+    "close_out": false,
+    "first_transaction_from": "Y2NIIBY6XPXRDCNUAO56VKYPVKAE7IG6QQ6QRBLRM2CGE72WGBXM7BQDCU",
+    "created_at_timestamp": 1634237034,
+    "received_transactions_before_vote": 219
+  },
+  "LZV6CADA364XR6UBABAWNNVI53HUFDRKGITGYXHPQZ2DYNQ24QTTN6ZQ3E": {
+    "apps": 2,
+    "assets": 67,
+    "close_out": false,
+    "first_transaction_from": "LZV6CADA364XR6UBABAWNNVI53HUFDRKGITGYXHPQZ2DYNQ24QTTN6ZQ3E",
+    "created_at_timestamp": 1626848576,
+    "received_transactions_before_vote": 584
+  },
+  "B35EOPP47LZ3PFSTVAUTBP53P7B7QHILXMNR5YAE3I4KRCBSQJY2VOJLXE": {
+    "apps": 1,
+    "assets": 18,
+    "close_out": false,
+    "first_transaction_from": "B35EOPP47LZ3PFSTVAUTBP53P7B7QHILXMNR5YAE3I4KRCBSQJY2VOJLXE",
+    "created_at_timestamp": 1667999345,
+    "received_transactions_before_vote": 84
+  },
+  "DGN2WBTRTEYNLOKLNVXCBPQ7TUDFZR4TFIGA5LLS5BTYMSALIZIYZTIR2Y": {
+    "apps": 1,
+    "assets": 24,
+    "close_out": false,
+    "first_transaction_from": "DGN2WBTRTEYNLOKLNVXCBPQ7TUDFZR4TFIGA5LLS5BTYMSALIZIYZTIR2Y",
+    "created_at_timestamp": 1624880040,
+    "received_transactions_before_vote": 52
+  },
+  "H3A7GQA62RWHF2B7M7VOB3WFEZXCTL63J56SFITK7PAJ6OWLCCQYVR6UTI": {
+    "apps": 46,
+    "assets": 583,
+    "close_out": false,
+    "first_transaction_from": "H3A7GQA62RWHF2B7M7VOB3WFEZXCTL63J56SFITK7PAJ6OWLCCQYVR6UTI",
+    "created_at_timestamp": 1677603009,
+    "received_transactions_before_vote": 683
+  },
+  "EBVZGC6335333RCMW4YB7RY2H33UVALTPCL6HJLI7673JL54AOXKAKHSXM": {
+    "apps": 6,
+    "assets": 35,
+    "close_out": false,
+    "first_transaction_from": "EBVZGC6335333RCMW4YB7RY2H33UVALTPCL6HJLI7673JL54AOXKAKHSXM",
+    "created_at_timestamp": 1683027146,
+    "received_transactions_before_vote": 193
+  },
+  "H5PSC3EYVHTZE4IYPU6BSHB4ZYQ3LQTRQKURL6KP4T4YHPFP3YYDC5YHII": {
+    "apps": 1,
+    "assets": 7,
+    "close_out": false,
+    "first_transaction_from": "H5PSC3EYVHTZE4IYPU6BSHB4ZYQ3LQTRQKURL6KP4T4YHPFP3YYDC5YHII",
+    "created_at_timestamp": 1690875326,
+    "received_transactions_before_vote": 21
+  },
+  "ZTRVTBCBX4TBE4EA6ENGBJQIL6B5FFZDS5A7VWEE3EPO3H7Y5Z7TGUXUHI": {
+    "apps": 2,
+    "assets": 228,
+    "close_out": false,
+    "first_transaction_from": "ZTRVTBCBX4TBE4EA6ENGBJQIL6B5FFZDS5A7VWEE3EPO3H7Y5Z7TGUXUHI",
+    "created_at_timestamp": 1621401627,
+    "received_transactions_before_vote": 426
+  },
+  "XTB4MRRXZ3DRXGJ7HAE5BM4BCUYJO3LBAJDNCY4F7C3G65HKNIHNBI7L2Y": {
+    "apps": 1,
+    "assets": 13,
+    "close_out": false,
+    "first_transaction_from": "ETGSQKACKC56JWGMDAEP5S2JVQWRKTQUVKCZTMPNUGZLDVCWPY63LSI3H4",
+    "created_at_timestamp": 1689984936,
+    "received_transactions_before_vote": 38
+  },
+  "4AG4NVSTY65V4Z24I4URXVPYEEEKBSTIODMLXD3FWAKZK7AUNEUKTVJRIY": {
+    "apps": 1,
+    "assets": 43,
+    "close_out": false,
+    "first_transaction_from": "4AG4NVSTY65V4Z24I4URXVPYEEEKBSTIODMLXD3FWAKZK7AUNEUKTVJRIY",
+    "created_at_timestamp": 1634911086,
+    "received_transactions_before_vote": 105
+  },
+  "KK4XZSRSJP6TA4C5CNZ3C6M5ZR5AI4CU3MP6XZS5WIBMYM3QZDEVFQBMRY": {
+    "apps": 12,
+    "assets": 491,
+    "close_out": false,
+    "first_transaction_from": "H3F4BUTKFQLXGODNAS54RQPPMRR5D7IY44GAXMBFVFJNZYYWF6GIUO2UIA",
+    "created_at_timestamp": 1640225718,
+    "received_transactions_before_vote": 1000
+  },
+  "TJ5EU4P7O447IGHP2PLSMOXQT7HD5CUAE7SQS7Z7CLFRJO47WPC3QCCQ5E": {
+    "apps": 3,
+    "assets": 24,
+    "close_out": false,
+    "first_transaction_from": "IICAB345T3BQTQVTKUI24CV2VPEKBTVWGUCXXNTVXX2NNQDUMZBLTDOPAM",
+    "created_at_timestamp": 1663816293,
+    "received_transactions_before_vote": 97
+  },
+  "32N4T2GOTTMUFU3742EMAIO2YLYD7XETYTHCYOIJGW32NV6OFVHXK54O2U": {
+    "apps": 10,
+    "assets": 4,
+    "close_out": false,
+    "first_transaction_from": "AIRDROPKWP6A2LFGAKY372OE2LVCHFVKIYDP6X4UYJ2BCMNKMWD3O6UDDM",
+    "created_at_timestamp": 1630623481,
+    "received_transactions_before_vote": 135
+  },
+  "CHO2GNWGW6MMFRUS7HYYEZVTX3ETQHLHLJLZ6H3FQM2Z3ZUSVFWKMBHN6I": {
+    "apps": 2,
+    "assets": 12,
+    "close_out": false,
+    "first_transaction_from": "CHO2GNWGW6MMFRUS7HYYEZVTX3ETQHLHLJLZ6H3FQM2Z3ZUSVFWKMBHN6I",
+    "created_at_timestamp": 1675642533,
+    "received_transactions_before_vote": 80
+  },
+  "JTLHEQGZPJ5ZSSUVZLVPQ67ELIS7JGWF7FQLPOBPS3LRDFJOBWC62EZWUE": {
+    "apps": 27,
+    "assets": 102,
+    "close_out": false,
+    "first_transaction_from": "JTLHEQGZPJ5ZSSUVZLVPQ67ELIS7JGWF7FQLPOBPS3LRDFJOBWC62EZWUE",
+    "created_at_timestamp": 1649841927,
+    "received_transactions_before_vote": 940
+  },
+  "U47AHM6PJBGQJTI3THJTOCFUJ5T7CMWNQR6BJ4D3VH7MQTQA2JJAR4W5G4": {
+    "apps": 6,
+    "assets": 12,
+    "close_out": false,
+    "first_transaction_from": "PRE4TE3T7VNOFWSV2GXX34TGDZJ4OTM4BVSHXYBVTFN4PFZUYZNW2PBRGQ",
+    "created_at_timestamp": 1640901313,
+    "received_transactions_before_vote": 74
+  },
+  "AZX6TQJWYZCUG42H6OOVMLTNXKEC3UZRJAY6VBLJ35NTQ2JVVLJBKDFY6Y": {
+    "apps": 2,
+    "assets": 105,
+    "close_out": false,
+    "first_transaction_from": "AZX6TQJWYZCUG42H6OOVMLTNXKEC3UZRJAY6VBLJ35NTQ2JVVLJBKDFY6Y",
+    "created_at_timestamp": 1636432322,
+    "received_transactions_before_vote": 189
+  },
+  "N66S3IQBCE7VGZD4MEAX3EPU6R6MBGBDQCUZK6I3ZSM75HIRK45VR7S7HU": {
+    "apps": 15,
+    "assets": 75,
+    "close_out": false,
+    "first_transaction_from": "HRET6VNP4TKWMVR7APZYNVQLNFZQN64MSZ4D4EHFPV7KZG5ZKFNT7KH6FM",
+    "created_at_timestamp": 1633371496,
+    "received_transactions_before_vote": 425
+  },
+  "T2RVXMHASWRGYTEOQHRDNMCWD6JDJZKAJ7M542YIUADO7LHRUTNAYILSUY": {
+    "apps": 2,
+    "assets": 42,
+    "close_out": false,
+    "first_transaction_from": "T2RVXMHASWRGYTEOQHRDNMCWD6JDJZKAJ7M542YIUADO7LHRUTNAYILSUY",
+    "created_at_timestamp": 1635560165,
+    "received_transactions_before_vote": 891
+  },
+  "6GTLXADUKSBLTDTCYYUGPLBE3NXQJK555LYV24RDRV5EK2TLDMGOBD2HTA": {
+    "apps": 2,
+    "assets": 90,
+    "close_out": false,
+    "first_transaction_from": "6GTLXADUKSBLTDTCYYUGPLBE3NXQJK555LYV24RDRV5EK2TLDMGOBD2HTA",
+    "created_at_timestamp": 1631461796,
+    "received_transactions_before_vote": 426
+  },
+  "IQGSP2MV6IWFLDVDBOTZ7RGZSOZHHCAW5BQN3XHRB4PFOYZWAYQKFFBBFQ": {
+    "apps": 2,
+    "assets": 286,
+    "close_out": false,
+    "first_transaction_from": "5LFG65D3CE5AA63PYUE5BDGT3ZTQDBSDSGGDVBAZEZLVP2G4PE5OUAG2CU",
+    "created_at_timestamp": 1668125470,
+    "received_transactions_before_vote": 999
+  },
+  "5JTOCJVFANIQPTSAY5ILMKDXVI4HSBWTULTI3B2UEXSDUCAZLT7YAYTZRY": {
+    "apps": 42,
+    "assets": 333,
+    "close_out": false,
+    "first_transaction_from": "6RBBQIOSJH5NINVTTAKE2EIO7EN3TW23O3XN67IPOXNE3KNZF3HYO7EIII",
+    "created_at_timestamp": 1638035059,
+    "received_transactions_before_vote": 999
+  },
+  "537JVQPOCB32FABEFAQOL4HAJLZUDOSBTBMPHVYYHAPHKSK5OH2EEKIXVU": {
+    "apps": 43,
+    "assets": 56,
+    "close_out": false,
+    "first_transaction_from": "24RK56A4LS2GWV2F3KLSWPHAWPNZSOOE2DA2FB54FNLMIFOELZAUIEURQE",
+    "created_at_timestamp": 1634514053,
+    "received_transactions_before_vote": 954
+  },
+  "5NRW7KOIUFQBIXFMTAZSIKI56P36FCKGJRZCQ6NOGJKYY3TGDP3OM6T6QA": {
+    "apps": 3,
+    "assets": 8,
+    "close_out": false,
+    "first_transaction_from": "5NRW7KOIUFQBIXFMTAZSIKI56P36FCKGJRZCQ6NOGJKYY3TGDP3OM6T6QA",
+    "created_at_timestamp": 1645827781,
+    "received_transactions_before_vote": 35
+  },
+  "I3XIQBRZ737A3FHJ2RPLSB4BM6MJJYPBMC3EKJH7ZTHEDZZXE6AHPLUWC4": {
+    "apps": 6,
+    "assets": 9,
+    "close_out": false,
+    "first_transaction_from": "I3XIQBRZ737A3FHJ2RPLSB4BM6MJJYPBMC3EKJH7ZTHEDZZXE6AHPLUWC4",
+    "created_at_timestamp": 1660838932,
+    "received_transactions_before_vote": 18
+  },
+  "TEN52VXR3JXUQATILKPVHTVGAJJ55QXFCZUBA25ATTMKPLYYZB2NSRZT4U": {
+    "apps": 3,
+    "assets": 3,
+    "close_out": false,
+    "first_transaction_from": "TEN52VXR3JXUQATILKPVHTVGAJJ55QXFCZUBA25ATTMKPLYYZB2NSRZT4U",
+    "created_at_timestamp": 1638634015,
+    "received_transactions_before_vote": 65
+  },
+  "MC7FSDBMSZLTGWLW3OASR6K3IB7SPJMINMY25KM6JIMJ4OBIBWXEUWDRUI": {
+    "apps": 2,
+    "assets": 60,
+    "close_out": false,
+    "first_transaction_from": "MC7FSDBMSZLTGWLW3OASR6K3IB7SPJMINMY25KM6JIMJ4OBIBWXEUWDRUI",
+    "created_at_timestamp": 1621358537,
+    "received_transactions_before_vote": 350
+  },
+  "XXYC6VYAHRUG5XICUBI67ELBAWRIQGWWZVLIOSWBJBNPGDRLP4TREM675M": {
+    "apps": 1,
+    "assets": 56,
+    "close_out": false,
+    "first_transaction_from": "IDOW6E2QZWFYKTSVUY76MIPH6U545NVNWOXI53MOLQ75U5QHTM53MBUGRU",
+    "created_at_timestamp": 1642164315,
+    "received_transactions_before_vote": 132
+  },
+  "OWLCUFTOGACLCGGE2UQEIUSJGXI7Y5BBPQ77FFJ3YFD64TQMQ5CQZLBPNQ": {
+    "apps": 29,
+    "assets": 1087,
+    "close_out": false,
+    "first_transaction_from": "LQUY4YW6B6CQBLF4NE23RDOKDO2NZODCIQHU6MSNGWUFCNLDGL4FTRMQ7M",
+    "created_at_timestamp": 1631123622,
+    "received_transactions_before_vote": 989
+  },
+  "GEYI2DJI2WYWMR2JA25DR63GIJPX2TO5OCYDWQH4XRQQFYWNVWTBHM4BNY": {
+    "apps": 3,
+    "assets": 2,
+    "close_out": false,
+    "first_transaction_from": "GEYI2DJI2WYWMR2JA25DR63GIJPX2TO5OCYDWQH4XRQQFYWNVWTBHM4BNY",
+    "created_at_timestamp": 1636378521,
+    "received_transactions_before_vote": 138
+  },
+  "IWPDCIAOFQTFXINNKOAF76H3V7E7XPCPQKMY7Q5AMXKWCCLXE675GL3YJY": {
+    "apps": 20,
+    "assets": 267,
+    "close_out": false,
+    "first_transaction_from": "S27JZG776Q7D5SGTYQHPBNUR3XVQJ6DM7W5FDL55IRRPNFDSJR5M4LVXXI",
+    "created_at_timestamp": 1638989913,
+    "received_transactions_before_vote": 988
+  },
+  "TPJZMIJYERYHXG2FOW3RFQRJCQET3MTM6TZCHKTJCDXUDND3LBIVZM6PVM": {
+    "apps": 1,
+    "assets": 15,
+    "close_out": false,
+    "first_transaction_from": "TPJZMIJYERYHXG2FOW3RFQRJCQET3MTM6TZCHKTJCDXUDND3LBIVZM6PVM",
+    "created_at_timestamp": 1678219655,
+    "received_transactions_before_vote": 915
+  },
+  "WJDMQ4LGNAI4ZDOB7FVPWQEGPXDYIHD6YLRFK2B3COSR2AI2VUC6PFBWDE": {
+    "apps": 65,
+    "assets": 344,
+    "close_out": false,
+    "first_transaction_from": "NYSPAFYGQ3T3HPDCMWS4VRLK7NRPT5SMYMDVCHSUPFHAZXRJGGVTP427MU",
+    "created_at_timestamp": 1631202470,
+    "received_transactions_before_vote": 583
+  },
+  "EZQKV5XNGCZBVEYKQL2NSL2OLME5FHZ7B3MUWJJ33A4B32Q3C4MHDNGE7E": {
+    "apps": 1,
+    "assets": 13,
+    "close_out": false,
+    "first_transaction_from": "EZQKV5XNGCZBVEYKQL2NSL2OLME5FHZ7B3MUWJJ33A4B32Q3C4MHDNGE7E",
+    "created_at_timestamp": 1631711088,
+    "received_transactions_before_vote": 32
+  },
+  "KWMM52LO6MCB2ESQT4CFDUEHLY5NVF6HWHVHHCQMN6DZSNS5Z5BJEDABFI": {
+    "apps": 5,
+    "assets": 13,
+    "close_out": false,
+    "first_transaction_from": "KWMM52LO6MCB2ESQT4CFDUEHLY5NVF6HWHVHHCQMN6DZSNS5Z5BJEDABFI",
+    "created_at_timestamp": 1679270422,
+    "received_transactions_before_vote": 319
+  },
+  "ESZDVO2RM4MDZDVKJGRXQ5JJUB3D6HDDXZZQFXAWMBSBBQQVIKQ2A4W6QU": {
+    "apps": 1,
+    "assets": 5,
+    "close_out": false,
+    "first_transaction_from": "ZQZSRRRDQTCUQLOEGIHQXIGPNM53XYC7BVJJKQ3TNBR5YJOCNTAO4HQLY4",
+    "created_at_timestamp": 1678144998,
+    "received_transactions_before_vote": 46
+  },
+  "N76B6BSRK64HVFNPEFRF53IERREJ6QJSGTAF5WJ5NV27NYDWOZTBLTRZOY": {
+    "apps": 23,
+    "assets": 51,
+    "close_out": false,
+    "first_transaction_from": "GIIVSAEZ2HTNJSM5VCWWDVPZTQOZKC7KTRNVS5VN6IFJFDURBVETJYUY3U",
+    "created_at_timestamp": 1633080872,
+    "received_transactions_before_vote": 455
+  },
+  "D54D2RCXC5RK722QCLXX32OBU3IZSUOGFTSD5U732A5YL335KKLE6VP7SE": {
+    "apps": 2,
+    "assets": 9,
+    "close_out": false,
+    "first_transaction_from": "VNZDLJZQBRXWAXIECRTUF6IVJ5FFSLCEUKJ6X4HIXRTWV6J3OPSYWHDVAA",
+    "created_at_timestamp": 1636382325,
+    "received_transactions_before_vote": 108
+  },
+  "6DSZMTCEMZ4VJAX5AE5FCLKLNDDBNBPUYQLLEYM5KJMB67NLN4XQUNNLPU": {
+    "apps": 41,
+    "assets": 1529,
+    "close_out": false,
+    "first_transaction_from": "6MO6VE4DBZ2ZKNHHY747LABB5QGSH6V6IQ4EZZW2HXDFXHHQVKRIVRHSJM",
+    "created_at_timestamp": 1633487117,
+    "received_transactions_before_vote": 488
+  },
+  "B4M6Y5PIOQI2BVA5HQ2MCG2W54LXIDK6UJ3HDZA3QTO75UZDA7VYSF5ONA": {
+    "apps": 37,
+    "assets": 62,
+    "close_out": false,
+    "first_transaction_from": "B4M6Y5PIOQI2BVA5HQ2MCG2W54LXIDK6UJ3HDZA3QTO75UZDA7VYSF5ONA",
+    "created_at_timestamp": 1677545632,
+    "received_transactions_before_vote": 541
+  },
+  "XWJ6UN54FCW2P56QFBROUYXNYOU3RXKO6RN7ICM3FZA4JZJ4ZMUVB66ZBQ": {
+    "apps": 8,
+    "assets": 77,
+    "close_out": false,
+    "first_transaction_from": "AIRDROPSAV5FJVRAZ3LT77TD4RWCXAZCWJK6R7M2FVID45KMUWA72XDEBY",
+    "created_at_timestamp": 1614063769,
+    "received_transactions_before_vote": 312
+  },
+  "HHFJPPDJFZZVM6B4OGNIXJ5OVRB74G64F4JXNBUQHC6TKOMLZLTPFGM5SQ": {
+    "apps": 36,
+    "assets": 47,
+    "close_out": false,
+    "first_transaction_from": "ZW3ISEHZUHPO7OZGMKLKIIMKVICOUDRCERI454I3DB2BH52HGLSO67W754",
+    "created_at_timestamp": 1635962890,
+    "received_transactions_before_vote": 980
+  },
+  "645YSHGR7MC2ZNOPLVVBGNMJ5EB2OWJ7K4UPPLTKHQ5MTFED2XP42GDQJE": {
+    "apps": 2,
+    "assets": 141,
+    "close_out": false,
+    "first_transaction_from": "645YSHGR7MC2ZNOPLVVBGNMJ5EB2OWJ7K4UPPLTKHQ5MTFED2XP42GDQJE",
+    "created_at_timestamp": 1677592621,
+    "received_transactions_before_vote": 668
+  },
+  "SORFJAXS6RNWG65LVLO7HFQJFXNNL4TRUIXW3FB62275WCZDI6SFU5TVRM": {
+    "apps": 4,
+    "assets": 27,
+    "close_out": false,
+    "first_transaction_from": "QUESTA6XV2JZ2XAV3EK3GKBHYCJO57JWUX6L6ENHGNLR6UE3OPCUCT2WLI",
+    "created_at_timestamp": 1657752929,
+    "received_transactions_before_vote": 445
+  },
+  "MK2ZO6MCW6LEAL2QXUSCJXLWK7FDXVNNINBGRPQ37VZ5A6VXB3BQZ34QXI": {
+    "apps": 4,
+    "assets": 16,
+    "close_out": false,
+    "first_transaction_from": "QUESTA6XV2JZ2XAV3EK3GKBHYCJO57JWUX6L6ENHGNLR6UE3OPCUCT2WLI",
+    "created_at_timestamp": 1657752933,
+    "received_transactions_before_vote": 411
+  },
+  "7SRCTYIGDZ2EF44Z5CZHNJCUU3JEUFKVPEEGWDS3M3FSZL2Q6WT4F6MTS4": {
+    "apps": 3,
+    "assets": 9,
+    "close_out": false,
+    "first_transaction_from": "QUESTA6XV2JZ2XAV3EK3GKBHYCJO57JWUX6L6ENHGNLR6UE3OPCUCT2WLI",
+    "created_at_timestamp": 1657752937,
+    "received_transactions_before_vote": 314
+  },
+  "YADAC4J7RG2AR567M4EZPMWAJV7OBAFXPBIQ4BRGBFWSF3BD5EFC4XLNCQ": {
+    "apps": 3,
+    "assets": 7,
+    "close_out": false,
+    "first_transaction_from": "PERAAAA6L3OR2Q66TF3CUWDZBVWKDXQKSMEHR2PGDE2QW3KHOOX27MGNCU",
+    "created_at_timestamp": 1657752946,
+    "received_transactions_before_vote": 296
+  },
+  "YNRWU5SPXDACMLQKTFHWIGVN62JGO7ZROLN6OM6AKCNLAJFLXKASXY67L4": {
+    "apps": 3,
+    "assets": 8,
+    "close_out": false,
+    "first_transaction_from": "6DSZMTCEMZ4VJAX5AE5FCLKLNDDBNBPUYQLLEYM5KJMB67NLN4XQUNNLPU",
+    "created_at_timestamp": 1657752950,
+    "received_transactions_before_vote": 324
+  },
+  "X4BW3S3SH2IU734GXYKSJEJQN7IBQV3T2DJENDXDJ4PAMN52TWQBKU3OIA": {
+    "apps": 95,
+    "assets": 198,
+    "close_out": false,
+    "first_transaction_from": "X4BW3S3SH2IU734GXYKSJEJQN7IBQV3T2DJENDXDJ4PAMN52TWQBKU3OIA",
+    "created_at_timestamp": 1677579497,
+    "received_transactions_before_vote": 446
+  },
+  "Z3N7HYRA534ERESFW5TUAUYUCTDGPMHZIHCDPZ472T5Z62VCCMBVCYDELI": {
+    "apps": 10,
+    "assets": 35,
+    "close_out": false,
+    "first_transaction_from": "Z3N7HYRA534ERESFW5TUAUYUCTDGPMHZIHCDPZ472T5Z62VCCMBVCYDELI",
+    "created_at_timestamp": 1695435625,
+    "received_transactions_before_vote": 959
+  },
+  "LP6QRRBRDTDSP4HF7CSPWJV4AG4QWE437OYHGW7K5Y7DETKCSK5H3HCA7Q": {
+    "apps": 28,
+    "assets": 121,
+    "close_out": false,
+    "first_transaction_from": "LP6QRRBRDTDSP4HF7CSPWJV4AG4QWE437OYHGW7K5Y7DETKCSK5H3HCA7Q",
+    "created_at_timestamp": 1616766106,
+    "received_transactions_before_vote": 610
+  },
+  "UTI7PAASILRDA3ISHY5M7J7LNRX2AIVQJWI7ZKCCGKVLMFD3VPR5PWSZ4I": {
+    "apps": 43,
+    "assets": 107,
+    "close_out": false,
+    "first_transaction_from": "SZG5K3INV5CWRDS34U6JUWWY752WENRF2XFDCHJ7K6XRVRLWFNUUHDHOO4",
+    "created_at_timestamp": 1668608005,
+    "received_transactions_before_vote": 1000
+  },
+  "U56IZLBCMSDN3XOFHALAFXFTPYLCF23L3JEPKPTSGE3DCCE7H6T6XGAW6A": {
+    "apps": 1,
+    "assets": 3,
+    "close_out": false,
+    "first_transaction_from": "U56IZLBCMSDN3XOFHALAFXFTPYLCF23L3JEPKPTSGE3DCCE7H6T6XGAW6A",
+    "created_at_timestamp": 1678291588,
+    "received_transactions_before_vote": 95
+  },
+  "JUCVG3CHTXC7CXKP2NZFTBO2JWL5NN4UQ34TLFZVDMC5BFSYBGJLG53DCE": {
+    "apps": 1,
+    "assets": 8,
+    "close_out": false,
+    "first_transaction_from": "JUCVG3CHTXC7CXKP2NZFTBO2JWL5NN4UQ34TLFZVDMC5BFSYBGJLG53DCE",
+    "created_at_timestamp": 1687542277,
+    "received_transactions_before_vote": 27
+  },
+  "46BNA4RBJEEFDMCCQBQ5DSMI5UXZVIXUKADC6O3NWBHWF2EKSZKPC3BJ44": {
+    "apps": 1,
+    "assets": 8,
+    "close_out": false,
+    "first_transaction_from": "IICAB345T3BQTQVTKUI24CV2VPEKBTVWGUCXXNTVXX2NNQDUMZBLTDOPAM",
+    "created_at_timestamp": 1640377351,
+    "received_transactions_before_vote": 68
+  },
+  "QHIPSR26IFUOAIZF2KTI7LJQWVLBJCYFOD2VVPT5DPYGILKFMPETKOD36Y": {
+    "apps": 8,
+    "assets": 17,
+    "close_out": false,
+    "first_transaction_from": "AIRDROPKWP6A2LFGAKY372OE2LVCHFVKIYDP6X4UYJ2BCMNKMWD3O6UDDM",
+    "created_at_timestamp": 1681852927,
+    "received_transactions_before_vote": 98
+  },
+  "6G5P2PQU25BLJI6XY555QOVZK4D5EDAXMREKQCITI65OE5FQ6O2JZJ62FA": {
+    "apps": 40,
+    "assets": 209,
+    "close_out": false,
+    "first_transaction_from": "KS6BBVG5TPVU44EA2QWXDYKKBC2XN474IXI3J4OQW65NRXP3R3BOMY5ZZI",
+    "created_at_timestamp": 1619055594,
+    "received_transactions_before_vote": 979
+  },
+  "XTIG2RDFMZZYS6HDIBGBE33NDMPRB3AXO2RV6FKDQGVIC37AYKFRCPM7PE": {
+    "apps": 5,
+    "assets": 57,
+    "close_out": false,
+    "first_transaction_from": "S27JZG776Q7D5SGTYQHPBNUR3XVQJ6DM7W5FDL55IRRPNFDSJR5M4LVXXI",
+    "created_at_timestamp": 1637786238,
+    "received_transactions_before_vote": 532
+  },
+  "IXOTFZYU3XV5VYBG4UP5ESWOS5GX2XCNIAJX5P2KG3CGEXDFNYFWWTFT5U": {
+    "apps": 4,
+    "assets": 74,
+    "close_out": false,
+    "first_transaction_from": "IXOTFZYU3XV5VYBG4UP5ESWOS5GX2XCNIAJX5P2KG3CGEXDFNYFWWTFT5U",
+    "created_at_timestamp": 1637167235,
+    "received_transactions_before_vote": 361
+  },
+  "Q2AP73OIEXP65S3SOTPSL4FVU27PIP6ZSARFXMR3RNAQHTFMN2GJ7L4YNQ": {
+    "apps": 42,
+    "assets": 19,
+    "close_out": false,
+    "first_transaction_from": "Q2AP73OIEXP65S3SOTPSL4FVU27PIP6ZSARFXMR3RNAQHTFMN2GJ7L4YNQ",
+    "created_at_timestamp": 1637227276,
+    "received_transactions_before_vote": 874
+  },
+  "OC7AEYPRSHDE4ONGNONW4AAIOJ3SLOV6GMQXB2NJEIZQMTXABDDOQPDIFQ": {
+    "apps": 1,
+    "assets": 9,
+    "close_out": false,
+    "first_transaction_from": "TL7FKUYEAABU3CTPJWBEOX3AFJMTTCEBA5Q27PT6IZLPHMO5BTIEOBKXSE",
+    "created_at_timestamp": 1678085079,
+    "received_transactions_before_vote": 26
+  },
+  "EBATMZJ5KVDKCP32MADDXQRPDRGIGWPBR2GUMLRULZY565PEJASAU4OJXM": {
+    "apps": 1,
+    "assets": 4,
+    "close_out": false,
+    "first_transaction_from": "EBATMZJ5KVDKCP32MADDXQRPDRGIGWPBR2GUMLRULZY565PEJASAU4OJXM",
+    "created_at_timestamp": 1686062169,
+    "received_transactions_before_vote": 9
+  },
+  "VELYY5435WYHBIDSSNIHCLZ5D6D5WHAD64FAOP43IXIBZYVR6SK4XE5S64": {
+    "apps": 6,
+    "assets": 14,
+    "close_out": false,
+    "first_transaction_from": "AIRDROPKWP6A2LFGAKY372OE2LVCHFVKIYDP6X4UYJ2BCMNKMWD3O6UDDM",
+    "created_at_timestamp": 1638457476,
+    "received_transactions_before_vote": 57
+  },
+  "TZWXSKOZCCO4LLK3OKCPHMPPO2SJ7SBNCIKV6CBFXNP4RJD5WH4F7TA4RQ": {
+    "apps": 2,
+    "assets": 180,
+    "close_out": false,
+    "first_transaction_from": "LOOTZ7B52Y6DUJYO57Z7MRHKCRGYZN2T7C7EFKEKJFQTOZK7Q4BY3KU6UU",
+    "created_at_timestamp": 1630244087,
+    "received_transactions_before_vote": 366
+  },
+  "WAVESP7BGCN5F3MIG7DHFZ2LMIEV6SBON4A5CD7IPSL4ZFDFP7W3YP7HAI": {
+    "apps": 6,
+    "assets": 47,
+    "close_out": false,
+    "first_transaction_from": "WPMEN6GG73BTMBFJQR65I7JN52CEF6HLHQD2FMTTC327GA37ETCPEDSZJ4",
+    "created_at_timestamp": 1677617417,
+    "received_transactions_before_vote": 480
+  },
+  "SXRIFVR5BY6RQG7FQQVTYOO2N4S4LGC3JL343HGWHEO7L7JQGQFGTOA4QM": {
+    "apps": 1,
+    "assets": 84,
+    "close_out": false,
+    "first_transaction_from": "PQV5LGKD4WXL6RRU24X5NZBRI5L67OAO4KO77JNRLWCNM4XS2SIAUPJ7LM",
+    "created_at_timestamp": 1693326832,
+    "received_transactions_before_vote": 492
+  },
+  "MWCL6VAVOWGLBL7UZWJCPIFGJL334F5GXHRUYHCUOSSHF7XJPJWDPW7FOE": {
+    "apps": 37,
+    "assets": 84,
+    "close_out": false,
+    "first_transaction_from": "KROT75CSXBUFD5JQ3ATERUYTQDY5OGR2EUDDHGP7UREKOPGOQ6ZCGMQDSQ",
+    "created_at_timestamp": 1629242398,
+    "received_transactions_before_vote": 767
+  },
+  "BLA4UUNP5BY66UBIIYBMRWBNPN7WVAMN4TUNIBR4A4C5TDIACZ332VGM5U": {
+    "apps": 4,
+    "assets": 14,
+    "close_out": false,
+    "first_transaction_from": "PERAAAA6L3OR2Q66TF3CUWDZBVWKDXQKSMEHR2PGDE2QW3KHOOX27MGNCU",
+    "created_at_timestamp": 1664916215,
+    "received_transactions_before_vote": 42
+  },
+  "OATBKJQGRY3EUFD62GFTOWFPKAKCOPBEB23TYOFEXPJOLWZWGOWCI5X3DQ": {
+    "apps": 3,
+    "assets": 65,
+    "close_out": false,
+    "first_transaction_from": "OATBKJQGRY3EUFD62GFTOWFPKAKCOPBEB23TYOFEXPJOLWZWGOWCI5X3DQ",
+    "created_at_timestamp": 1626613813,
+    "received_transactions_before_vote": 804
+  },
+  "QRT7JOQ55ZFX6N5DQWUVDNMUYINIR22MPQVNG6Y2MOKRR4D4H55RRJANHA": {
+    "apps": 3,
+    "assets": 7,
+    "close_out": false,
+    "first_transaction_from": "AIRDROPKWP6A2LFGAKY372OE2LVCHFVKIYDP6X4UYJ2BCMNKMWD3O6UDDM",
+    "created_at_timestamp": 1614633744,
+    "received_transactions_before_vote": 301
+  },
+  "QXXFTRQK5APMZ3EBNGGWXF6R6ELESCHVXG66W573LKEQ7JD7MZXWVDM3YQ": {
+    "apps": 1,
+    "assets": 91,
+    "close_out": false,
+    "first_transaction_from": "QXXFTRQK5APMZ3EBNGGWXF6R6ELESCHVXG66W573LKEQ7JD7MZXWVDM3YQ",
+    "created_at_timestamp": 1635905905,
+    "received_transactions_before_vote": 224
+  },
+  "UWDHZCPXUVTZ2NK5EDCDRNVPINQDVTWW2I5NOTQWWCBG4GEPS22QMB2ZSY": {
+    "apps": 2,
+    "assets": 4,
+    "close_out": false,
+    "first_transaction_from": "YW3CGCJDA53H7KOZV2PKII7OUR4XZYSX2PHIWBNKXKZ4TOU5XFCBUFCKF4",
+    "created_at_timestamp": 1697009193,
+    "received_transactions_before_vote": 13
+  },
+  "BTGAPCDKI6VGWGEN7NAB675XSHTDRVI7BMQKOGWNUYAGIMSST7DRFKZWWU": {
+    "apps": 2,
+    "assets": 15,
+    "close_out": false,
+    "first_transaction_from": "WPMEN6GG73BTMBFJQR65I7JN52CEF6HLHQD2FMTTC327GA37ETCPEDSZJ4",
+    "created_at_timestamp": 1652489296,
+    "received_transactions_before_vote": 456
+  },
+  "GHOSTX6EMDUJOOPYARZP3IXUAYCGSPSAK6PPBQ2D3LSF76FNO76OBBWYVA": {
+    "apps": 3,
+    "assets": 51,
+    "close_out": false,
+    "first_transaction_from": "WPMEN6GG73BTMBFJQR65I7JN52CEF6HLHQD2FMTTC327GA37ETCPEDSZJ4",
+    "created_at_timestamp": 1614714455,
+    "received_transactions_before_vote": 477
+  },
+  "I4DKSLQV5CRQO4V7Y2CA5FP7QGJGSQV5PA7EZ6JRUZRYYFQF2CLJFEGLFA": {
+    "apps": 2,
+    "assets": 332,
+    "close_out": false,
+    "first_transaction_from": "I4DKSLQV5CRQO4V7Y2CA5FP7QGJGSQV5PA7EZ6JRUZRYYFQF2CLJFEGLFA",
+    "created_at_timestamp": 1621858910,
+    "received_transactions_before_vote": 871
+  },
+  "IO6EQFR7D6R7AEYZ4X2GBDEUSZMTHZRKCSJ7MNWQRYJX6WSHUP2AUAGFBY": {
+    "apps": 1,
+    "assets": 55,
+    "close_out": false,
+    "first_transaction_from": "IO6EQFR7D6R7AEYZ4X2GBDEUSZMTHZRKCSJ7MNWQRYJX6WSHUP2AUAGFBY",
+    "created_at_timestamp": 1630996967,
+    "received_transactions_before_vote": 706
+  },
+  "N344CZHYPVBFURRINETWHIVTFH3U37OFQGODTPWQPI3ER3AW2T7PO2UOIM": {
+    "apps": 1,
+    "assets": 74,
+    "close_out": false,
+    "first_transaction_from": "N344CZHYPVBFURRINETWHIVTFH3U37OFQGODTPWQPI3ER3AW2T7PO2UOIM",
+    "created_at_timestamp": 1638262845,
+    "received_transactions_before_vote": 119
+  },
+  "I6COL2IQGLLXV7YB5M4HIGQX3EWKIPZWGYNNARRLIHDU4FVCKSNM6AMDQ4": {
+    "apps": 4,
+    "assets": 8,
+    "close_out": false,
+    "first_transaction_from": "I6COL2IQGLLXV7YB5M4HIGQX3EWKIPZWGYNNARRLIHDU4FVCKSNM6AMDQ4",
+    "created_at_timestamp": 1668360196,
+    "received_transactions_before_vote": 106
+  },
+  "U3U4S7UPIHOY2LOKWOIQZEJK566UUDBDBBTZRTU6TKWMA6QT65SY4FBI2Q": {
+    "apps": 32,
+    "assets": 108,
+    "close_out": false,
+    "first_transaction_from": "U3U4S7UPIHOY2LOKWOIQZEJK566UUDBDBBTZRTU6TKWMA6QT65SY4FBI2Q",
+    "created_at_timestamp": 1617785196,
+    "received_transactions_before_vote": 897
+  }
+}
